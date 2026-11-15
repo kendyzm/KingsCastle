@@ -6,12 +6,13 @@
   }[c]));
   const dateFmt = (value) => {
     if (!value) return "Date TBD";
-    const d = new Date(value);
+    const dateOnly = /^\\d{4}-\\d{2}-\\d{2}$/.test(value);
+    const d = new Date(dateOnly ? `${value}T12:00:00` : value);
     return Number.isNaN(d.getTime()) ? "Date TBD" :
-      new Intl.DateTimeFormat("en-US", { month: "short", day: "numeric", year: "numeric", timeZone: "America/Los_Angeles" }).format(d);
+      new Intl.DateTimeFormat("en-US", { month: "short", day: "numeric", year: "numeric", timeZone: dateOnly ? "America/Los_Angeles" : "America/Los_Angeles" }).format(d);
   };
   const timeFmt = (value) => {
-    if (!value) return "";
+    if (!value || /^\\d{4}-\\d{2}-\\d{2}$/.test(value)) return "";
     const d = new Date(value);
     return Number.isNaN(d.getTime()) ? "" :
       new Intl.DateTimeFormat("en-US", { hour: "numeric", minute: "2-digit", timeZone: "America/Los_Angeles", timeZoneName: "short" }).format(d);

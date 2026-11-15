@@ -1,39 +1,50 @@
-# Kings Castle — Game Day automation
+# Kings Castle — Full Website + Automated Game Day
 
-This package updates the existing Kings Castle `game-day.html` page using a scheduled GitHub Actions workflow.
+This is the **complete Kings Castle website**, including all existing pages and the Game Day automation.
 
-## Files
-- `game-day.html` — updated page based on the uploaded file
-- `assets/js/game-day.js` — renders the record, latest result, next game, and game table
-- `data/games.json` — data file populated by the updater
-- `scripts/update_nba_scores.py` — retrieves Sacramento Kings schedule/results from ESPN's public schedule endpoint
-- `.github/workflows/update-kings-game-day.yml` — runs the updater every 30 minutes and commits changes
+## Website pages
+- `index.html` — homepage
+- `news.html` — Kings news links and editorial listings
+- `videos.html` — video library
+- `video.html` — individual YouTube video page
+- `article.html` — article template
+- `kingdom.html` — fan culture / Sacramento
+- `vault.html` — Kings history
+- `game-day.html` — automatically updated schedule and results
 
-## Install into your existing website repository
+## Assets and automation
+- `assets/css/style.css` — site styling
+- `assets/js/content.js` — homepage/video/news content
+- `assets/js/main.js` — site interactions
+- `assets/js/game-day.js` — renders Game Day data
+- `data/games.json` — initial data plus auto-refreshed schedule
+- `scripts/update_nba_scores.py` — fetches Kings schedule and scores from ESPN
+- `.github/workflows/update-kings-game-day.yml` — scheduled GitHub Actions updater
 
-1. Unzip this package.
-2. Copy `game-day.html` into the root of your existing website, replacing the old file.
-3. Copy the `assets/js/game-day.js` file into the matching `assets/js/` folder.
-4. Copy `data/games.json` into a new `data/` folder in the website root.
-5. Copy `scripts/update_nba_scores.py` into a `scripts/` folder.
-6. Copy `.github/workflows/update-kings-game-day.yml` into the matching `.github/workflows/` folder.
-7. Keep your existing `assets/css/style.css` and `assets/js/main.js`; this update uses them.
-8. Commit and push all files to GitHub.
+## Publish the complete website
+1. Download and unzip this package.
+2. Open your existing GitHub repository.
+3. Upload **all files and folders inside this package** to the repository root.
+4. Allow folder merges and replace existing files when GitHub asks.
+5. Commit the changes to your default branch.
+6. Confirm GitHub Pages is publishing from the branch and folder containing `index.html`.
 
-## Enable GitHub Actions
+Do not upload the ZIP file itself into the repository. Upload its extracted contents.
 
-In your GitHub repository:
-1. Open **Settings → Actions → General**.
-2. Under Workflow permissions, select **Read and write permissions** and save.
-3. Open the **Actions** tab and select **Update Kings Game Day**.
-4. Choose **Run workflow** once to populate `data/games.json`.
+## Enable automatic Game Day updates
+1. In GitHub, open **Settings → Actions → General**.
+2. Under **Workflow permissions**, select **Read and write permissions** and save.
+3. Open the **Actions** tab.
+4. Select **Update Kings Game Day**.
+5. Click **Run workflow** once.
 
-The workflow then runs twice an hour. GitHub scheduled workflows can be delayed during busy periods; this is not a second-by-second live scoreboard.
+After the first successful run, the workflow is scheduled to run every 30 minutes. GitHub may delay scheduled workflows during periods of high load. Scores are not guaranteed to update second-by-second during live games.
 
-## Notes
-- The script calculates the season record from completed regular-season games.
-- It includes scheduled/live games and final scores when ESPN provides them.
-- The data source is ESPN's public, undocumented schedule endpoint; ESPN can change it without notice.
-- The page requires the JSON file to be hosted at `data/games.json` on the same site.
-- If your repository uses a different default branch or deployment setup, the workflow still commits to the checked-out branch, but your Pages deployment must publish that branch/folder.
-- The placeholder `games.json` is intentionally empty until the first workflow run succeeds.
+## Existing content
+Your three supplied YouTube video IDs and existing site content remain in `assets/js/content.js`. Update video titles, descriptions, dates, and news links there.
+
+## Data source and limitations
+The updater uses ESPN's public, undocumented schedule endpoint. ESPN may change this endpoint without notice. If the endpoint changes, the updater may need maintenance. The website itself is static and reads `data/games.json`; it does not need a separate server.
+
+## Important
+Kings Castle is an independent, unofficial fan publication and is not affiliated with or endorsed by the NBA or Sacramento Kings.
