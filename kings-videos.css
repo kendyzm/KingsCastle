@@ -1,0 +1,16 @@
+/* Kings Castle automatic YouTube video feed */
+.auto-video-toolbar{display:grid;gap:16px;margin:28px 0 18px}
+.auto-video-toolbar input{width:100%;max-width:520px;padding:14px 16px;border:1px solid #51436f;border-radius:4px;background:#17131f;color:#fff;font:inherit}
+.auto-video-filters{display:flex;gap:8px;flex-wrap:wrap}
+.auto-video-filter{border:1px solid #51436f;border-radius:3px;padding:9px 13px;background:transparent;color:inherit;font:inherit;cursor:pointer}
+.auto-video-filter.active,.auto-video-filter:hover{background:#4d2b78;border-color:#8e68bd;color:#fff}
+.auto-video-grid{margin-top:20px}
+.auto-video-card h3 a{color:inherit;text-decoration:none}
+.auto-video-card h3 a:hover{color:#b99adf}
+.auto-video-thumb{display:block;position:relative;aspect-ratio:16/9;overflow:hidden;background:#17131f}
+.auto-video-thumb img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .25s}
+.auto-video-thumb:hover img{transform:scale(1.04)}
+.auto-video-play{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);display:grid;place-items:center;width:54px;height:54px;border-radius:50%;background:#5a2d83;color:#fff}
+.auto-video-channel{opacity:.72;font-size:.9rem}
+.auto-video-player{position:relative;width:100%;aspect-ratio:16/9;margin:24px 0;background:#09070d}
+.auto-video-player iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
