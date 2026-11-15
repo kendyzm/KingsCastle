@@ -3,33 +3,23 @@
 <header class="site-header"><a class="brand" href="index.html"><span class="brand-mark">♛</span><span class="brand-copy"><strong>KINGS CASTLE</strong><small>SACRAMENTO KINGS ROYALTY</small></span></a><button class="menu-toggle" aria-label="Toggle navigation">☰</button><nav class="nav"><a href="index.html">HOME</a><a href="news.html">KINGS NEWS</a><a href="videos.html">VIDEOS</a><a href="kingdom.html">THE KINGDOM</a><a href="vault.html">THE VAULT</a><a class="active" href="game-day.html">GAME DAY</a></nav></header>
 <main class="page-wrap">
   <div class="page-intro"><p class="eyebrow">TIP-OFF TO FINAL BUZZER</p><h1>GAME <em>DAY</em></h1><p>Every matchup, every result, and every night the Kingdom shows up.</p></div>
-  <section class="record-strip">
-    <div><span class="record-label">2026–27 REGULAR SEASON</span><strong>1–11</strong><small>Record through Nov. 13, 2026</small></div>
-    <div><span class="record-label">LAST GAME</span><strong>107–120</strong><small>vs. Portland · Nov. 13</small></div>
-    <div><span class="record-label">NEXT GAME</span><strong>vs OKC</strong><small>Nov. 15 · Golden 1 Center</small></div>
+  <section class="record-strip" id="record-strip" aria-live="polite">
+    <div><span class="record-label">2026–27 REGULAR SEASON</span><strong id="season-record">Loading…</strong><small id="record-caption">Fetching Kings results</small></div>
+    <div><span class="record-label">LAST GAME</span><strong id="last-score">Loading…</strong><small id="last-game-caption">Checking latest result</small></div>
+    <div><span class="record-label">NEXT GAME</span><strong id="next-opponent">Loading…</strong><small id="next-game-caption">Checking schedule</small></div>
   </section>
   <section class="results-section">
-    <div class="section-heading"><div><p class="eyebrow">THE RESULTS</p><h2>PAST <em>GAMES</em></h2></div><span class="season-tag">2026–27 REGULAR SEASON</span></div>
-    <p class="results-intro">Kings scores are shown first. <strong>W</strong> = win · <strong>L</strong> = loss. Results updated through November 13, 2026.</p>
-    <div class="results-table-wrap"><table class="results-table">
-      <thead><tr><th>DATE</th><th>OPPONENT</th><th>LOCATION</th><th>FINAL SCORE</th><th>RESULT</th></tr></thead>
-      <tbody>
-        <tr><td>Nov 13, 2026</td><td>Portland Trail Blazers</td><td>Home</td><td class="score">SAC 107 – POR 120</td><td><span class="result loss">L</span></td></tr>
-        <tr><td>Nov 10, 2026</td><td>Orlando Magic</td><td>Home</td><td class="score">SAC 100 – ORL 107</td><td><span class="result loss">L</span></td></tr>
-        <tr><td>Nov 8, 2026</td><td>Miami Heat</td><td>Home</td><td class="score">SAC 108 – MIA 114</td><td><span class="result loss">L</span></td></tr>
-        <tr><td>Nov 6, 2026</td><td>San Antonio Spurs</td><td>Home</td><td class="score">SAC 109 – SAS 124</td><td><span class="result loss">L</span></td></tr>
-        <tr><td>Nov 4, 2026</td><td>Los Angeles Lakers</td><td>Home</td><td class="score">SAC 103 – LAL 116</td><td><span class="result loss">L</span></td></tr>
-        <tr><td>Nov 2, 2026</td><td>Dallas Mavericks</td><td>Away</td><td class="score">SAC 115 – DAL 100</td><td><span class="result win">W</span></td></tr>
-        <tr><td>Oct 31, 2026</td><td>Memphis Grizzlies</td><td>Away</td><td class="score">SAC 105 – MEM 136</td><td><span class="result loss">L</span></td></tr>
-        <tr><td>Oct 29, 2026</td><td>New Orleans Pelicans</td><td>Away</td><td class="score">SAC 120 – NOP 132</td><td><span class="result loss">L</span></td></tr>
-        <tr><td>Oct 27, 2026</td><td>San Antonio Spurs</td><td>Away</td><td class="score">SAC 103 – SAS 130</td><td><span class="result loss">L</span></td></tr>
-        <tr><td>Oct 25, 2026</td><td>Memphis Grizzlies</td><td>Home</td><td class="score">SAC 112 – MEM 123</td><td><span class="result loss">L</span></td></tr>
-        <tr><td>Oct 23, 2026</td><td>Portland Trail Blazers</td><td>Home</td><td class="score">SAC 120 – POR 128</td><td><span class="result loss">L</span></td></tr>
-        <tr><td>Oct 21, 2026</td><td>LA Clippers</td><td>Away</td><td class="score">SAC 96 – LAC 121</td><td><span class="result loss">L</span></td></tr>
-      </tbody>
-    </table></div>
-    <p class="source-note">Scores cross-checked against <a href="https://www.espn.com/nba/team/_/name/sac/sacramento-kings" target="_blank" rel="noopener">ESPN’s Sacramento Kings page</a> and published 2026–27 results.</p>
+    <div class="section-heading"><div><p class="eyebrow">THE RESULTS</p><h2>PAST <em>GAMES</em></h2></div><span class="season-tag" id="season-label">NBA REGULAR SEASON</span></div>
+    <p class="results-intro">Kings scores are shown first. <strong>W</strong> = win · <strong>L</strong> = loss. Scores and schedule are refreshed automatically.</p>
+    <div class="results-table-wrap">
+      <table class="results-table">
+        <thead><tr><th>DATE</th><th>OPPONENT</th><th>LOCATION</th><th>FINAL SCORE / STATUS</th><th>RESULT</th></tr></thead>
+        <tbody id="games-table-body"><tr><td colspan="5">Loading Kings schedule…</td></tr></tbody>
+      </table>
+    </div>
+    <p class="source-note">Schedule and scores provided by ESPN. Data refreshes automatically through the Kings Castle GitHub Actions workflow. <a href="https://www.espn.com/nba/team/_/name/sac/sacramento-kings" target="_blank" rel="noopener">View ESPN Kings page</a>.</p>
+    <p class="source-note" id="data-updated"></p>
   </section>
-  <section class="upcoming-panel"><div><p class="eyebrow">UP NEXT</p><h2>THUNDER AT <em>KINGS</em></h2><p>Sunday, November 15 · Golden 1 Center · Sacramento</p></div><span class="upcoming-mark">916</span></section>
+  <section class="upcoming-panel" id="upcoming-panel"><div><p class="eyebrow">UP NEXT</p><h2 id="upcoming-title">LOADING <em>KINGS</em></h2><p id="upcoming-details">Retrieving the next matchup…</p></div><span class="upcoming-mark">916</span></section>
 </main>
-<footer class="footer"><a class="footer-brand" href="index.html">KINGS CASTLE <span>♛</span></a><p>BUILT FOR THE KINGDOM. ROOTED IN SACRAMENTO.</p><div class="footer-bottom"><span>Independent fan publication. Not affiliated with the NBA or Sacramento Kings.</span><span>© 2026 KINGS CASTLE</span></div></footer><script src="assets/js/main.js"></script></body></html>
+<footer class="footer"><a class="footer-brand" href="index.html">KINGS CASTLE <span>♛</span></a><p>BUILT FOR THE KINGDOM. ROOTED IN SACRAMENTO.</p><div class="footer-bottom"><span>Independent fan publication. Not affiliated with the NBA or Sacramento Kings.</span><span>© 2026 KINGS CASTLE</span></div></footer><script src="assets/js/game-day.js"></script><script src="assets/js/main.js"></script></body></html>
