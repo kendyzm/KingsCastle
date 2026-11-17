@@ -1,6 +1,6 @@
 {
   "title": "Sacramento Kings YouTube Videos",
-  "updatedAt": "2026-11-17T07:48:24.346595+00:00",
+  "updatedAt": "2026-11-17T20:49:16.129226+00:00",
   "source": "YouTube Data API v3",
   "searches": [
     "Sacramento Kings",
@@ -13,15 +13,291 @@
   "count": 100,
   "videos": [
     {
+      "id": "3SZHspirLlQ",
+      "title": "Sacramento Kings Beacon 🕷️",
+      "description": "",
+      "channelTitle": "TheLaserGuy",
+      "publishedAt": "2026-11-17T20:13:42Z",
+      "thumbnail": "https://i.ytimg.com/vi/3SZHspirLlQ/hqdefault.jpg",
+      "category": "Kings",
+      "url": "https://www.youtube.com/watch?v=3SZHspirLlQ",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/3SZHspirLlQ",
+      "source": "YouTube"
+    },
+    {
+      "id": "-dEGzmoX6RE",
+      "title": "SGA DROPPED 37 IN THREE QUARTERS AND DIDN&#39;T EVEN PLAY THE FOURTH 😭",
+      "description": "SHAI GILGEOUS-ALEXANDER IS ACTUALLY UNFAIR. The Thunder superstar just put on another ABSOLUTE MASTERCLASS ...",
+      "channelTitle": "Court Collective",
+      "publishedAt": "2026-11-17T19:00:17Z",
+      "thumbnail": "https://i.ytimg.com/vi/-dEGzmoX6RE/hqdefault.jpg",
+      "category": "Kings",
+      "url": "https://www.youtube.com/watch?v=-dEGzmoX6RE",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/-dEGzmoX6RE",
+      "source": "YouTube"
+    },
+    {
+      "id": "InGPysOuTHI",
+      "title": "Sacramento Kings’ Former Rookie Proves He’s Starting-Caliber For OKC #shorts",
+      "description": "28 starts. 25 minutes a night. A promising rookie season turned into proof: Nique Clifford can contribute as a starter. #okcthunder ...",
+      "channelTitle": "Bring The Thunder Podcast ",
+      "publishedAt": "2026-11-17T18:58:32Z",
+      "thumbnail": "https://i.ytimg.com/vi/InGPysOuTHI/hqdefault.jpg",
+      "category": "Kings",
+      "url": "https://www.youtube.com/watch?v=InGPysOuTHI",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/InGPysOuTHI",
+      "source": "YouTube"
+    },
+    {
+      "id": "-2hWygDjCdI",
+      "title": "Sam Cassell should be a candidate for the Kings head coach job #kings #nba #shorts",
+      "description": "Subscribe for the latest Sacramentos sports news & videos!! Listen live: https://www.audacy.com/espn1320/listen Visit our website: ...",
+      "channelTitle": "ESPN 1320 - Sacramento's Sports Leader",
+      "publishedAt": "2026-11-17T18:30:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/-2hWygDjCdI/hqdefault.jpg",
+      "category": "Kings",
+      "url": "https://www.youtube.com/watch?v=-2hWygDjCdI",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/-2hWygDjCdI",
+      "source": "YouTube"
+    },
+    {
+      "id": "F5ZpEp4ruq8",
+      "title": "Mark Jackson And Tom Thibodeau Potential Candidates To Coach the Kings",
+      "description": "Subscribe for the latest Sacramentos sports news & videos!! Listen live: https://www.audacy.com/espn1320/listen Visit our website: ...",
+      "channelTitle": "ESPN 1320 - Sacramento's Sports Leader",
+      "publishedAt": "2026-11-17T18:24:01Z",
+      "thumbnail": "https://i.ytimg.com/vi/F5ZpEp4ruq8/hqdefault.jpg",
+      "category": "News",
+      "url": "https://www.youtube.com/watch?v=F5ZpEp4ruq8",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/F5ZpEp4ruq8",
+      "source": "YouTube"
+    },
+    {
+      "id": "JphskSPh-K8",
+      "title": "Kings are 1-9. Should they sell Sabonis to the Suns? #shorts",
+      "description": "Proposed trade, not reported. Package proposed by Bleacher Report (Nov 2): Sabonis to Phoenix for Jalen Green, Mark Williams ...",
+      "channelTitle": "Settle It Sports",
+      "publishedAt": "2026-11-17T18:17:11Z",
+      "thumbnail": "https://i.ytimg.com/vi/JphskSPh-K8/hqdefault.jpg",
+      "category": "Kings",
+      "url": "https://www.youtube.com/watch?v=JphskSPh-K8",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/JphskSPh-K8",
+      "source": "YouTube"
+    },
+    {
+      "id": "W4df57w4Rxo",
+      "title": "Grand Rapids Gold vs. Motor City Cruise - Game Highlights",
+      "description": "The NBA G League is the NBA's official minor league. Fans can get a glimpse at the players, coaches and officials competing to ...",
+      "channelTitle": "NBA G League",
+      "publishedAt": "2026-11-17T18:10:58Z",
+      "thumbnail": "https://i.ytimg.com/vi/W4df57w4Rxo/hqdefault.jpg",
+      "category": "Highlights",
+      "url": "https://www.youtube.com/watch?v=W4df57w4Rxo",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/W4df57w4Rxo",
+      "source": "YouTube"
+    },
+    {
+      "id": "fd7qAHH9HXA",
+      "title": "&#39;I don&#39;t know what to do man&#39; - Darius Acuff at his lowest point 😔 #nba #rookie",
+      "description": "Kings rookie Darius Acuff after a 1-10 start: \"I don't understand… I don't know what to do, man.\" The Gil's Arena crew watches ...",
+      "channelTitle": "Hoops Podcast Vault",
+      "publishedAt": "2026-11-17T18:07:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/fd7qAHH9HXA/hqdefault.jpg",
+      "category": "Kings",
+      "url": "https://www.youtube.com/watch?v=fd7qAHH9HXA",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/fd7qAHH9HXA",
+      "source": "YouTube"
+    },
+    {
+      "id": "fOoSiUIerQ8",
+      "title": "NBA PLAYERS REACT to Ben Simmons Joining the Sacramento Kings!",
+      "description": "Ben Simmons is making headlines with his reported move to the Sacramento Kings!NBA fans are eager to see what he could ...",
+      "channelTitle": "CelebVelocity",
+      "publishedAt": "2026-11-17T17:47:05Z",
+      "thumbnail": "https://i.ytimg.com/vi/fOoSiUIerQ8/hqdefault.jpg",
+      "category": "Fan Reactions",
+      "url": "https://www.youtube.com/watch?v=fOoSiUIerQ8",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/fOoSiUIerQ8",
+      "source": "YouTube"
+    },
+    {
+      "id": "AZcEAmtwLsI",
+      "title": "🚨🔵🔴 ¡EL BARÇA SE LLEVA UN BASE JUGÓN ! Killian Hayes deja Sacramento Kings y aterriza en Barcelona.",
+      "description": "EL BARÇA SE LLEVA UN BASE JUGÓN! Killian Hayes deja Sacramento Kings y aterriza en Barcelona. Un base de 1,96 m, con ...",
+      "channelTitle": "Verso de Cancha | NBA en Español ",
+      "publishedAt": "2026-11-17T17:00:19Z",
+      "thumbnail": "https://i.ytimg.com/vi/AZcEAmtwLsI/hqdefault.jpg",
+      "category": "Kings",
+      "url": "https://www.youtube.com/watch?v=AZcEAmtwLsI",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/AZcEAmtwLsI",
+      "source": "YouTube"
+    },
+    {
+      "id": "HhXeuxs9NEs",
+      "title": "Sacramento Kings linked to two head coaching candidates?",
+      "description": "Jason Ross reacts to NBA insider Marc Stein's report that links the Sacramento Kings to Tom Thibodeau and Mark Jackson.",
+      "channelTitle": "Sactown Sports 1140",
+      "publishedAt": "2026-11-17T16:47:58Z",
+      "thumbnail": "https://i.ytimg.com/vi/HhXeuxs9NEs/hqdefault.jpg",
+      "category": "Kings",
+      "url": "https://www.youtube.com/watch?v=HhXeuxs9NEs",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/HhXeuxs9NEs",
+      "source": "YouTube"
+    },
+    {
+      "id": "E2elpqVTX1c",
+      "title": "We DID NOT See This Coming... | Daily Sacramento Kings News &amp; Rumors",
+      "description": "Kings Latest is not endorsed, sponsored by, or affiliated with the NBA or its 30 teams. The content of our videos is intended for ...",
+      "channelTitle": "Kings Latest",
+      "publishedAt": "2026-11-17T16:30:06Z",
+      "thumbnail": "https://i.ytimg.com/vi/E2elpqVTX1c/hqdefault.jpg",
+      "category": "News",
+      "url": "https://www.youtube.com/watch?v=E2elpqVTX1c",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/E2elpqVTX1c",
+      "source": "YouTube"
+    },
+    {
+      "id": "h2VXkAKCJXU",
+      "title": "The Darius Acuff Jr. Story: His GM Coached His Dad",
+      "description": "Darius Acuff Jr. scored 183 points in his first seven NBA games, the most since Shaquille O'Neal in 1992. But the wildest part of ...",
+      "channelTitle": "The Bobble Head Files",
+      "publishedAt": "2026-11-17T16:11:06Z",
+      "thumbnail": "https://i.ytimg.com/vi/h2VXkAKCJXU/hqdefault.jpg",
+      "category": "News",
+      "url": "https://www.youtube.com/watch?v=h2VXkAKCJXU",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/h2VXkAKCJXU",
+      "source": "YouTube"
+    },
+    {
+      "id": "Dg4t0KrSCOE",
+      "title": "Kings Coaching Changes: Rumors Rise",
+      "description": "This video examines the Sacramento Kings' struggling season (1-12) and the growing speculation surrounding Coach Doug ...",
+      "channelTitle": "Batmaning TV",
+      "publishedAt": "2026-11-17T16:03:09Z",
+      "thumbnail": "https://i.ytimg.com/vi/Dg4t0KrSCOE/hqdefault.jpg",
+      "category": "News",
+      "url": "https://www.youtube.com/watch?v=Dg4t0KrSCOE",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/Dg4t0KrSCOE",
+      "source": "YouTube"
+    },
+    {
+      "id": "pNGHTkrqsLA",
+      "title": "Kings Still Chasing Gabe Vincent — No Deal Yet",
+      "description": "The Sacramento Kings have pursued Gabe Vincent since last summer and still have an open roster spot after adding Mason ...",
+      "channelTitle": "Pro Basket Pulse",
+      "publishedAt": "2026-11-17T16:00:42Z",
+      "thumbnail": "https://i.ytimg.com/vi/pNGHTkrqsLA/hqdefault.jpg",
+      "category": "News",
+      "url": "https://www.youtube.com/watch?v=pNGHTkrqsLA",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/pNGHTkrqsLA",
+      "source": "YouTube"
+    },
+    {
+      "id": "4ZZ9gWCqk7s",
+      "title": "Sacramento Kings Interested In Gabe Vincent",
+      "description": "The Sacramento Kings remain interested in signing veteran guard Gabe Vincent, but the former Miami Heat and Los Angeles ...",
+      "channelTitle": "Cyro Asseo",
+      "publishedAt": "2026-11-17T15:54:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/4ZZ9gWCqk7s/hqdefault.jpg",
+      "category": "News",
+      "url": "https://www.youtube.com/watch?v=4ZZ9gWCqk7s",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/4ZZ9gWCqk7s",
+      "source": "YouTube"
+    },
+    {
+      "id": "Dgq1ZKzZwY4",
+      "title": "REPORT: Sacramento Kings are eyeing two &#39;down the line&#39; head coach options?",
+      "description": "Jason Ross reacts to NBA insider Marc Stein's report that Tom Thibodeau and Mark Jackson are “potential down-the-road” ...",
+      "channelTitle": "Sactown Sports 1140",
+      "publishedAt": "2026-11-17T15:24:02Z",
+      "thumbnail": "https://i.ytimg.com/vi/Dgq1ZKzZwY4/hqdefault.jpg",
+      "category": "Kings",
+      "url": "https://www.youtube.com/watch?v=Dgq1ZKzZwY4",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/Dgq1ZKzZwY4",
+      "source": "YouTube"
+    },
+    {
+      "id": "di0hoZHv14g",
+      "title": "Thunder Won&#39;t Trade for a Big Man... Here&#39;s Why",
+      "description": "Oklahoma City just added Nique Clifford from the Sacramento Kings to patch a depleted wing rotation — but with Chet Holmgren ...",
+      "channelTitle": "Pro Basket Pulse",
+      "publishedAt": "2026-11-17T15:15:17Z",
+      "thumbnail": "https://i.ytimg.com/vi/di0hoZHv14g/hqdefault.jpg",
+      "category": "News",
+      "url": "https://www.youtube.com/watch?v=di0hoZHv14g",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/di0hoZHv14g",
+      "source": "YouTube"
+    },
+    {
+      "id": "VKhXel_Hjw0",
+      "title": "Is Klay Thompson Lethal Again? 🎯 #NBA #KlayThompson #Heat",
+      "description": "Is Klay Thompson lethal again? Not yet. But he's heating up. At 36, Klay is scoring 19.6 points a game for the Miami Heat this ...",
+      "channelTitle": "gametape",
+      "publishedAt": "2026-11-17T13:00:23Z",
+      "thumbnail": "https://i.ytimg.com/vi/VKhXel_Hjw0/hqdefault.jpg",
+      "category": "Kings",
+      "url": "https://www.youtube.com/watch?v=VKhXel_Hjw0",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/VKhXel_Hjw0",
+      "source": "YouTube"
+    },
+    {
+      "id": "Z4FyDop_EIU",
+      "title": "NBA Tom Chambers Reacts to Domantas Sabonis Trade Speculation! 2 of 2",
+      "description": "Tom Chambers discusses the possibility of the Sacramento Kings trading Domantas Sabonis. A look at his situation in ...",
+      "channelTitle": "PLICORP",
+      "publishedAt": "2026-11-17T12:31:34Z",
+      "thumbnail": "https://i.ytimg.com/vi/Z4FyDop_EIU/hqdefault.jpg",
+      "category": "Fan Reactions",
+      "url": "https://www.youtube.com/watch?v=Z4FyDop_EIU",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/Z4FyDop_EIU",
+      "source": "YouTube"
+    },
+    {
+      "id": "RPkobMtK7-s",
+      "title": "Sacramento Kings game highlights #shorts",
+      "description": "",
+      "channelTitle": "manong vidal vlog",
+      "publishedAt": "2026-11-17T11:25:35Z",
+      "thumbnail": "https://i.ytimg.com/vi/RPkobMtK7-s/hqdefault.jpg",
+      "category": "Kings",
+      "url": "https://www.youtube.com/watch?v=RPkobMtK7-s",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/RPkobMtK7-s",
+      "source": "YouTube"
+    },
+    {
+      "id": "uKsSstX27P4",
+      "title": "🔴 BUILDING AROUND DARIUS ACUFF JR. | Sacramento Kings Rebuild | NBA 2K27 MyNBA Franchise",
+      "description": "Live: Sacramento Kings MyNBA franchise in NBA 2K27, and the whole plan is building around Darius Acuff Jr. On today's ...",
+      "channelTitle": "Green2k",
+      "publishedAt": "2026-11-17T09:22:52Z",
+      "thumbnail": "https://i.ytimg.com/vi/uKsSstX27P4/hqdefault.jpg",
+      "category": "Kings",
+      "url": "https://www.youtube.com/watch?v=uKsSstX27P4",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/uKsSstX27P4",
+      "source": "YouTube"
+    },
+    {
       "id": "CuhIBCM6VQ0",
       "title": "DESPERATE TIMES, DESPERATE MEASURES, will Doug Christie mix it up to try and jump start Kings?",
       "description": "At 1-12, desperate times call for desperate measures. Will Doug Christie shake things up to try and jump start his team or will it be ...",
       "channelTitle": "Locked On Kings (Sacramento)",
       "publishedAt": "2026-11-17T05:32:17Z",
       "thumbnail": "https://i.ytimg.com/vi/CuhIBCM6VQ0/hqdefault.jpg",
-      "category": "News",
+      "category": "Kings",
       "url": "https://www.youtube.com/watch?v=CuhIBCM6VQ0",
       "embedUrl": "https://www.youtube-nocookie.com/embed/CuhIBCM6VQ0",
+      "source": "YouTube"
+    },
+    {
+      "id": "PYiFcTowQFQ",
+      "title": "Fat Bandana Explains His Name and Kings Lyric #shorts",
+      "description": "Fat Bandana explains a Sacramento Kings lyric, praises his brother, and shares how a red bandanna and a joke at his first show ...",
+      "channelTitle": "The Chop Up Podcast",
+      "publishedAt": "2026-11-17T03:47:53Z",
+      "thumbnail": "https://i.ytimg.com/vi/PYiFcTowQFQ/hqdefault.jpg",
+      "category": "Kings",
+      "url": "https://www.youtube.com/watch?v=PYiFcTowQFQ",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/PYiFcTowQFQ",
       "source": "YouTube"
     },
     {
@@ -145,6 +421,18 @@
       "source": "YouTube"
     },
     {
+      "id": "f9x0HJXiOnI",
+      "title": "Kings fall to 1-12 #sacramento #sacramentokings #malikmonk #dariusacuffjr #nba",
+      "description": "",
+      "channelTitle": "Tendai",
+      "publishedAt": "2026-11-16T22:54:26Z",
+      "thumbnail": "https://i.ytimg.com/vi/f9x0HJXiOnI/hqdefault.jpg",
+      "category": "Kings",
+      "url": "https://www.youtube.com/watch?v=f9x0HJXiOnI",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/f9x0HJXiOnI",
+      "source": "YouTube"
+    },
+    {
       "id": "nkbuVAQTnOE",
       "title": "SGA is too smooth 🤫🔥 #shaigilgeousalexander #nba",
       "description": "Welcome to NBA Shockwave! Your home for the most exciting NBA basketball moments! Watch amazing NBA highlights, ...",
@@ -175,21 +463,9 @@
       "channelTitle": "The NBA Files",
       "publishedAt": "2026-11-16T21:45:25Z",
       "thumbnail": "https://i.ytimg.com/vi/E5dufylg-t4/hqdefault.jpg",
-      "category": "Kings",
+      "category": "Highlights",
       "url": "https://www.youtube.com/watch?v=E5dufylg-t4",
       "embedUrl": "https://www.youtube-nocookie.com/embed/E5dufylg-t4",
-      "source": "YouTube"
-    },
-    {
-      "id": "TddyOIW-UVo",
-      "title": "This is a popular action called “Twirl Zoom” that the Kings ran last night! #nba #basketball #fyp",
-      "description": "",
-      "channelTitle": "Kev's Film Room ",
-      "publishedAt": "2026-11-16T21:32:40Z",
-      "thumbnail": "https://i.ytimg.com/vi/TddyOIW-UVo/hqdefault.jpg",
-      "category": "Kings",
-      "url": "https://www.youtube.com/watch?v=TddyOIW-UVo",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/TddyOIW-UVo",
       "source": "YouTube"
     },
     {
@@ -199,7 +475,7 @@
       "channelTitle": "THE OPEN MAN",
       "publishedAt": "2026-11-16T21:26:34Z",
       "thumbnail": "https://i.ytimg.com/vi/Tyie5uGlcsw/hqdefault.jpg",
-      "category": "Kings",
+      "category": "News",
       "url": "https://www.youtube.com/watch?v=Tyie5uGlcsw",
       "embedUrl": "https://www.youtube-nocookie.com/embed/Tyie5uGlcsw",
       "source": "YouTube"
@@ -211,7 +487,7 @@
       "channelTitle": "The 7th Man Up Podcast ",
       "publishedAt": "2026-11-16T21:24:30Z",
       "thumbnail": "https://i.ytimg.com/vi/qMHzZXdgHVw/hqdefault.jpg",
-      "category": "Kings",
+      "category": "News",
       "url": "https://www.youtube.com/watch?v=qMHzZXdgHVw",
       "embedUrl": "https://www.youtube-nocookie.com/embed/qMHzZXdgHVw",
       "source": "YouTube"
@@ -223,7 +499,7 @@
       "channelTitle": "ESPN 1320 - Sacramento's Sports Leader",
       "publishedAt": "2026-11-16T21:07:00Z",
       "thumbnail": "https://i.ytimg.com/vi/Fl3MH0101fM/hqdefault.jpg",
-      "category": "Kings",
+      "category": "News",
       "url": "https://www.youtube.com/watch?v=Fl3MH0101fM",
       "embedUrl": "https://www.youtube-nocookie.com/embed/Fl3MH0101fM",
       "source": "YouTube"
@@ -235,45 +511,9 @@
       "channelTitle": "ESPN 1320 - Sacramento's Sports Leader",
       "publishedAt": "2026-11-16T20:47:42Z",
       "thumbnail": "https://i.ytimg.com/vi/qLRRYa18W8c/hqdefault.jpg",
-      "category": "Kings",
+      "category": "News",
       "url": "https://www.youtube.com/watch?v=qLRRYa18W8c",
       "embedUrl": "https://www.youtube-nocookie.com/embed/qLRRYa18W8c",
-      "source": "YouTube"
-    },
-    {
-      "id": "xNXhj4-tzZA",
-      "title": "Gilgeous-Alexander&#39;s 37 Make It 3 Straight 30s",
-      "description": "Oklahoma City Thunder vs Sacramento Kings · NBA · November 15, 2026 Shai Gilgeous-Alexander scored 37 points on 13 of 20 ...",
-      "channelTitle": "Clipboard Hoops",
-      "publishedAt": "2026-11-16T20:45:18Z",
-      "thumbnail": "https://i.ytimg.com/vi/xNXhj4-tzZA/hqdefault.jpg",
-      "category": "Kings",
-      "url": "https://www.youtube.com/watch?v=xNXhj4-tzZA",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/xNXhj4-tzZA",
-      "source": "YouTube"
-    },
-    {
-      "id": "KkHs1O2y1sU",
-      "title": "I Watched The OKC Thunder Face The Kings Live",
-      "description": "",
-      "channelTitle": "mxno",
-      "publishedAt": "2026-11-16T20:29:33Z",
-      "thumbnail": "https://i.ytimg.com/vi/KkHs1O2y1sU/hqdefault.jpg",
-      "category": "Kings",
-      "url": "https://www.youtube.com/watch?v=KkHs1O2y1sU",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/KkHs1O2y1sU",
-      "source": "YouTube"
-    },
-    {
-      "id": "r6wnByQS8d4",
-      "title": "Why Philly Basketball Looks Better Than Expected #shorts",
-      "description": "DID THE KINGS' ROOKIE JUST TELL SABONIS THIS IS HIS TEAM NOW?! SHOULD A ROOKIE GET THE GREEN LIGHT ...",
-      "channelTitle": "We're All Set Podcast",
-      "publishedAt": "2026-11-16T20:09:27Z",
-      "thumbnail": "https://i.ytimg.com/vi/r6wnByQS8d4/hqdefault.jpg",
-      "category": "Kings",
-      "url": "https://www.youtube.com/watch?v=r6wnByQS8d4",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/r6wnByQS8d4",
       "source": "YouTube"
     },
     {
@@ -301,18 +541,6 @@
       "source": "YouTube"
     },
     {
-      "id": "T9PDjxMxUWw",
-      "title": "🔴 LIVE | OKLAHOMA CITY THUNDER vs SACRAMENTO KINGS | NBA Live Scoreboard",
-      "description": "OKLAHOMA CITY THUNDER vs SACRAMENTO KINGS LIVE SCOREBOARD Join DopeMedia for a fan-created live ...",
-      "channelTitle": "Dope Media",
-      "publishedAt": "2026-11-16T20:00:06Z",
-      "thumbnail": "https://i.ytimg.com/vi/T9PDjxMxUWw/hqdefault.jpg",
-      "category": "Kings",
-      "url": "https://www.youtube.com/watch?v=T9PDjxMxUWw",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/T9PDjxMxUWw",
-      "source": "YouTube"
-    },
-    {
       "id": "6awJUU4561g",
       "title": "Oklahoma City Blue vs. Laketown Squadron - Game Highlights",
       "description": "The NBA G League is the NBA's official minor league. Fans can get a glimpse at the players, coaches and officials competing to ...",
@@ -322,18 +550,6 @@
       "category": "Highlights",
       "url": "https://www.youtube.com/watch?v=6awJUU4561g",
       "embedUrl": "https://www.youtube-nocookie.com/embed/6awJUU4561g",
-      "source": "YouTube"
-    },
-    {
-      "id": "_RXH2Rll2TQ",
-      "title": "Why Sacramento Kings Fans Never Give Up",
-      "description": "Sacramento Kings fans have plenty of reasons to keep watching, even through a tough season. Fans shared what keeps them ...",
-      "channelTitle": "Sactown Sports 1140",
-      "publishedAt": "2026-11-16T19:26:15Z",
-      "thumbnail": "https://i.ytimg.com/vi/_RXH2Rll2TQ/hqdefault.jpg",
-      "category": "Kings",
-      "url": "https://www.youtube.com/watch?v=_RXH2Rll2TQ",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/_RXH2Rll2TQ",
       "source": "YouTube"
     },
     {
@@ -361,18 +577,6 @@
       "source": "YouTube"
     },
     {
-      "id": "9kqhwCR-nC0",
-      "title": "Gilgeous-Alexander 32 point in the win over the Sacramento Kings #basketball #nba",
-      "description": "",
-      "channelTitle": "hoop NBA",
-      "publishedAt": "2026-11-16T18:32:23Z",
-      "thumbnail": "https://i.ytimg.com/vi/9kqhwCR-nC0/hqdefault.jpg",
-      "category": "Kings",
-      "url": "https://www.youtube.com/watch?v=9kqhwCR-nC0",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/9kqhwCR-nC0",
-      "source": "YouTube"
-    },
-    {
       "id": "djf2jGyWaLg",
       "title": "This is EXACTLY the Spark OKC Needed...",
       "description": "Anson Belt & Buckle: Step up your belt game — get 2 bonus pieces FREE with the Box Set at http://ansonbelt.com/thundvember ...",
@@ -394,18 +598,6 @@
       "category": "Highlights",
       "url": "https://www.youtube.com/watch?v=u9X0Vmx34Dk",
       "embedUrl": "https://www.youtube-nocookie.com/embed/u9X0Vmx34Dk",
-      "source": "YouTube"
-    },
-    {
-      "id": "HaWIA4KSn1E",
-      "title": "Oklahoma City Thunder vs Sacramento Kings  NBA Live Play by Play",
-      "description": "Oklahoma City Thunder vs Sacramento Kings NBA Live Play by Play.",
-      "channelTitle": "Interga",
-      "publishedAt": "2026-11-16T17:59:20Z",
-      "thumbnail": "https://i.ytimg.com/vi/HaWIA4KSn1E/hqdefault.jpg",
-      "category": "Kings",
-      "url": "https://www.youtube.com/watch?v=HaWIA4KSn1E",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/HaWIA4KSn1E",
       "source": "YouTube"
     },
     {
@@ -439,7 +631,7 @@
       "channelTitle": "JRCS_ LIVE",
       "publishedAt": "2026-11-16T17:15:15Z",
       "thumbnail": "https://i.ytimg.com/vi/KixtTMmKdMY/hqdefault.jpg",
-      "category": "Kings",
+      "category": "Fan Reactions",
       "url": "https://www.youtube.com/watch?v=KixtTMmKdMY",
       "embedUrl": "https://www.youtube-nocookie.com/embed/KixtTMmKdMY",
       "source": "YouTube"
@@ -451,7 +643,7 @@
       "channelTitle": "SportsAction Highlights",
       "publishedAt": "2026-11-16T17:05:33Z",
       "thumbnail": "https://i.ytimg.com/vi/FyDBx2K_3Ac/hqdefault.jpg",
-      "category": "Kings",
+      "category": "Highlights",
       "url": "https://www.youtube.com/watch?v=FyDBx2K_3Ac",
       "embedUrl": "https://www.youtube-nocookie.com/embed/FyDBx2K_3Ac",
       "source": "YouTube"
@@ -490,6 +682,18 @@
       "category": "Fan Reactions",
       "url": "https://www.youtube.com/watch?v=3__z20MKhuk",
       "embedUrl": "https://www.youtube-nocookie.com/embed/3__z20MKhuk",
+      "source": "YouTube"
+    },
+    {
+      "id": "4Fnbu9-2BjE",
+      "title": "Thunder vs Kings Full highlights Nov. 16 2026",
+      "description": "",
+      "channelTitle": "Anjevinc Babor",
+      "publishedAt": "2026-11-16T14:18:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/4Fnbu9-2BjE/hqdefault.jpg",
+      "category": "Highlights",
+      "url": "https://www.youtube.com/watch?v=4Fnbu9-2BjE",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/4Fnbu9-2BjE",
       "source": "YouTube"
     },
     {
@@ -625,18 +829,6 @@
       "source": "YouTube"
     },
     {
-      "id": "gynpPG1n0A8",
-      "title": "NBA: Thunder Beat Kings 125-103",
-      "description": "This video reports on the Oklahoma City Thunder's victory over the Sacramento Kings, detailing Shai Gilgeous-Alexander's ...",
-      "channelTitle": "Batmaning TV",
-      "publishedAt": "2026-11-16T07:03:02Z",
-      "thumbnail": "https://i.ytimg.com/vi/gynpPG1n0A8/hqdefault.jpg",
-      "category": "News",
-      "url": "https://www.youtube.com/watch?v=gynpPG1n0A8",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/gynpPG1n0A8",
-      "source": "YouTube"
-    },
-    {
       "id": "ED-BIjwGM3Y",
       "title": "Sacramento Kings vs OKC Thunder FULL GAME HIGHLIGHTS | NBA Highlights &amp; Best Plays",
       "description": "Sacramento Kings vs OKC Thunder FULL GAME HIGHLIGHTS | NBA Highlights & Best Plays Kings vs Thunder Highlights | OKC ...",
@@ -658,18 +850,6 @@
       "category": "Analysis & Podcasts",
       "url": "https://www.youtube.com/watch?v=xBhFlGwqQnE",
       "embedUrl": "https://www.youtube-nocookie.com/embed/xBhFlGwqQnE",
-      "source": "YouTube"
-    },
-    {
-      "id": "rFnU13qp2xU",
-      "title": "RINSE AND REPEAT, Kings can&#39;t figure out how to close quarters or compete for 48 minutes",
-      "description": "Kings drop to 0-8 at home and 1-12 overall with a lackadaisical showing against a shorthanded Oklahoma City Thunder squad.",
-      "channelTitle": "Locked On Kings (Sacramento)",
-      "publishedAt": "2026-11-16T06:34:21Z",
-      "thumbnail": "https://i.ytimg.com/vi/rFnU13qp2xU/hqdefault.jpg",
-      "category": "News",
-      "url": "https://www.youtube.com/watch?v=rFnU13qp2xU",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/rFnU13qp2xU",
       "source": "YouTube"
     },
     {
@@ -706,18 +886,6 @@
       "category": "Interviews",
       "url": "https://www.youtube.com/watch?v=20nmDEzOn8I",
       "embedUrl": "https://www.youtube-nocookie.com/embed/20nmDEzOn8I",
-      "source": "YouTube"
-    },
-    {
-      "id": "6yzkbs0-HeQ",
-      "title": "SGA DROPS 37 POINTS IN JUST 3 QUARTERS! 🔥 Thunder DESTROY Kings ",
-      "description": "Shai Gilgeous-Alexander puts on an ABSOLUTE SHOW! SGA explodes for 37 POINTS in just 29 minutes as the Oklahoma City ...",
-      "channelTitle": "Hoop Fyre",
-      "publishedAt": "2026-11-16T05:37:21Z",
-      "thumbnail": "https://i.ytimg.com/vi/6yzkbs0-HeQ/hqdefault.jpg",
-      "category": "News",
-      "url": "https://www.youtube.com/watch?v=6yzkbs0-HeQ",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/6yzkbs0-HeQ",
       "source": "YouTube"
     },
     {
@@ -781,18 +949,6 @@
       "source": "YouTube"
     },
     {
-      "id": "oBEFZrJa7T8",
-      "title": "Watch top plays, highlights from Kings&#39; 125-103 loss to Thunder | NBC Sports California",
-      "description": "Watch extended highlights of the Sacramento Kings' 125-103 loss to the Oklahoma City Thunder on Sunday at Golden 1 Center.",
-      "channelTitle": "NBC Sports Bay Area & California",
-      "publishedAt": "2026-11-16T05:02:12Z",
-      "thumbnail": "https://i.ytimg.com/vi/oBEFZrJa7T8/hqdefault.jpg",
-      "category": "Highlights",
-      "url": "https://www.youtube.com/watch?v=oBEFZrJa7T8",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/oBEFZrJa7T8",
-      "source": "YouTube"
-    },
-    {
       "id": "-GIVlhUEGGM",
       "title": "Emanuel Sharp on what he&#39;s learned from extended playing time, Kings&#39; mindset at 1-12",
       "description": "Emanuel Sharp spoke with reporters after the Sacramento Kings lost 125-103 at home to the Oklahoma City Thunder.",
@@ -802,42 +958,6 @@
       "category": "Interviews",
       "url": "https://www.youtube.com/watch?v=-GIVlhUEGGM",
       "embedUrl": "https://www.youtube-nocookie.com/embed/-GIVlhUEGGM",
-      "source": "YouTube"
-    },
-    {
-      "id": "ptzDeL7X_kM",
-      "title": "Darius Acuff Jr. on how he&#39;s handling Kings&#39; 1-12 start following loss to Thunder",
-      "description": "Darius Acuff Jr. spoke with reporters after the Sacramento Kings lost 125-103 at home to the Oklahoma City Thunder.",
-      "channelTitle": "Sactown Sports 1140",
-      "publishedAt": "2026-11-16T04:57:20Z",
-      "thumbnail": "https://i.ytimg.com/vi/ptzDeL7X_kM/hqdefault.jpg",
-      "category": "Interviews",
-      "url": "https://www.youtube.com/watch?v=ptzDeL7X_kM",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/ptzDeL7X_kM",
-      "source": "YouTube"
-    },
-    {
-      "id": "_Fh-Pe9RVEU",
-      "title": "Oklahoma City Thunder vs Sacramento Kings Full Game Highlights - November 15, 2026 | NBA Season",
-      "description": "GIVEAWAY   https://www.instagram.com/thegametimehighlights/ Follow @thegametimehighlights on Instagram to Enter!",
-      "channelTitle": "GAMETIME HIGHLIGHTS",
-      "publishedAt": "2026-11-16T04:53:21Z",
-      "thumbnail": "https://i.ytimg.com/vi/_Fh-Pe9RVEU/hqdefault.jpg",
-      "category": "Highlights",
-      "url": "https://www.youtube.com/watch?v=_Fh-Pe9RVEU",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/_Fh-Pe9RVEU",
-      "source": "YouTube"
-    },
-    {
-      "id": "OvrjgitY7UM",
-      "title": "OKC Thunder at Sacramento Kings | Game Highlights | November 15, 2026",
-      "description": "Rewatch highlights from the Thunder's 125-103 win over the Kings in Sacramento. Subscribe to Thunder+ today and stream ...",
-      "channelTitle": "Oklahoma City Thunder",
-      "publishedAt": "2026-11-16T04:53:01Z",
-      "thumbnail": "https://i.ytimg.com/vi/OvrjgitY7UM/hqdefault.jpg",
-      "category": "Highlights",
-      "url": "https://www.youtube.com/watch?v=OvrjgitY7UM",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/OvrjgitY7UM",
       "source": "YouTube"
     },
     {
@@ -1090,126 +1210,6 @@
       "category": "Fan Reactions",
       "url": "https://www.youtube.com/watch?v=7xAV_YOSihg",
       "embedUrl": "https://www.youtube-nocookie.com/embed/7xAV_YOSihg",
-      "source": "YouTube"
-    },
-    {
-      "id": "At9ItML0BRA",
-      "title": "Keegan Murray addresses Kings’ disappointing start to season | NBC Sports CA",
-      "description": "Kings forward Keegan Murray speaks to reporters following Sacramento's 120-107 loss to the Portland Trail Blazers on Friday at ...",
-      "channelTitle": "NBC Sports Bay Area & California",
-      "publishedAt": "2026-11-14T06:14:51Z",
-      "thumbnail": "https://i.ytimg.com/vi/At9ItML0BRA/hqdefault.jpg",
-      "category": "Interviews",
-      "url": "https://www.youtube.com/watch?v=At9ItML0BRA",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/At9ItML0BRA",
-      "source": "YouTube"
-    },
-    {
-      "id": "YG5YdF_S0mc",
-      "title": "Keegan Murray says Sacramento Kings&#39; offense hasn&#39;t been good enough this season",
-      "description": "Sacramento Kings forward Keegan Murray speaks to the media following Friday's 120-107 loss to the Portland Trail Blazers.",
-      "channelTitle": "Sactown Sports 1140",
-      "publishedAt": "2026-11-14T06:14:26Z",
-      "thumbnail": "https://i.ytimg.com/vi/YG5YdF_S0mc/hqdefault.jpg",
-      "category": "Interviews",
-      "url": "https://www.youtube.com/watch?v=YG5YdF_S0mc",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/YG5YdF_S0mc",
-      "source": "YouTube"
-    },
-    {
-      "id": "-PWQRiU5WWQ",
-      "title": "BLAZERS POSTCAST | Blazers Win 3 Straight, Keep Rolling Against Kings!",
-      "description": "The Portland Trail Blazers keep rolling with a huge road win against the Sacramento Kings in NBA Cup action, extending their ...",
-      "channelTitle": "Locked On Blazers",
-      "publishedAt": "2026-11-14T06:02:34Z",
-      "thumbnail": "https://i.ytimg.com/vi/-PWQRiU5WWQ/hqdefault.jpg",
-      "category": "Fan Reactions",
-      "url": "https://www.youtube.com/watch?v=-PWQRiU5WWQ",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/-PWQRiU5WWQ",
-      "source": "YouTube"
-    },
-    {
-      "id": "hYm6NbyrEXs",
-      "title": "Deni Avdija Walkoff Interview | Portland Trail Blazers 120, Sacramento Kings 107 | Nov. 13, 2026",
-      "description": "INSTAGRAM » http://www.instagram.com/trailblazers TWITTER » http://www.twitter.com/trailblazers TIKTOK ...",
-      "channelTitle": "Portland Trail Blazers",
-      "publishedAt": "2026-11-14T05:52:06Z",
-      "thumbnail": "https://i.ytimg.com/vi/hYm6NbyrEXs/hqdefault.jpg",
-      "category": "Interviews",
-      "url": "https://www.youtube.com/watch?v=hYm6NbyrEXs",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/hYm6NbyrEXs",
-      "source": "YouTube"
-    },
-    {
-      "id": "NNdfVtVXuF4",
-      "title": "Portland Trail Blazers vs Sacramento Kings Live Play-By-Play &amp; Reactions",
-      "description": "Portland Trail Blazers vs Sacramento Kings Live Play-By-Play & Reactions : BrooksBeatz gives permission to use Sessions ...",
-      "channelTitle": "NW Sports Fanatics",
-      "publishedAt": "2026-11-14T05:50:16Z",
-      "thumbnail": "https://i.ytimg.com/vi/NNdfVtVXuF4/hqdefault.jpg",
-      "category": "Fan Reactions",
-      "url": "https://www.youtube.com/watch?v=NNdfVtVXuF4",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/NNdfVtVXuF4",
-      "source": "YouTube"
-    },
-    {
-      "id": "m66sVntxaeo",
-      "title": "11/13 Kings vs. Blazers | Sactown Sports FanCast",
-      "description": "Join us to watch & react to Kings vs. Blazers! #nba #sacramentokings #dariusacuff #domantas sabonis #keeganmurray ...",
-      "channelTitle": "Sactown Sports 1140",
-      "publishedAt": "2026-11-14T05:40:31Z",
-      "thumbnail": "https://i.ytimg.com/vi/m66sVntxaeo/hqdefault.jpg",
-      "category": "Fan Reactions",
-      "url": "https://www.youtube.com/watch?v=m66sVntxaeo",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/m66sVntxaeo",
-      "source": "YouTube"
-    },
-    {
-      "id": "chW9S1rcI9s",
-      "title": "Doug Christie reveals Kings team captains before Blazers game | NBC Sports California",
-      "description": "Kings coach Doug Christie speaks with the media before Sacramento's game against the Portland Trail Blazers on Friday at ...",
-      "channelTitle": "NBC Sports Bay Area & California",
-      "publishedAt": "2026-11-14T02:16:09Z",
-      "thumbnail": "https://i.ytimg.com/vi/chW9S1rcI9s/hqdefault.jpg",
-      "category": "Interviews",
-      "url": "https://www.youtube.com/watch?v=chW9S1rcI9s",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/chW9S1rcI9s",
-      "source": "YouTube"
-    },
-    {
-      "id": "ouPVYj7WyAU",
-      "title": "Top 5 NBA Rookie Scorers Right Now 🔥 #1 Is NOT Close!",
-      "description": "The 2026 rookie class is HISTORIC. Darius Acuff Jr. is putting up numbers we haven't seen from a rookie in decades, Yaxel ...",
-      "channelTitle": "Boswell Reacts!",
-      "publishedAt": "2026-11-14T00:18:51Z",
-      "thumbnail": "https://i.ytimg.com/vi/ouPVYj7WyAU/hqdefault.jpg",
-      "category": "Fan Reactions",
-      "url": "https://www.youtube.com/watch?v=ouPVYj7WyAU",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/ouPVYj7WyAU",
-      "source": "YouTube"
-    },
-    {
-      "id": "qY_7RHpR2rM",
-      "title": "Bucks vs Magic, Bulls vs Hawks, Jazz vs Rockets, Kings vs Blazers Reaction: NBA Lottery Rule 😭",
-      "description": "Bucks #Bulls #NBA The Milwaukee Bucks (1-11), Chicago Bulls (1-9), Utah Jazz (1-11) and Sacramento Kings (1-10) are trying to ...",
-      "channelTitle": "The Buzzer Cut",
-      "publishedAt": "2026-11-13T23:01:08Z",
-      "thumbnail": "https://i.ytimg.com/vi/qY_7RHpR2rM/hqdefault.jpg",
-      "category": "Fan Reactions",
-      "url": "https://www.youtube.com/watch?v=qY_7RHpR2rM",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/qY_7RHpR2rM",
-      "source": "YouTube"
-    },
-    {
-      "id": "299FbTcvUUo",
-      "title": "&quot;LUKA WANTED HIM OUT?!&quot; — Sophie Cunningham Sparks Debate Over Kings Fan’s Viral Ejection!",
-      "description": "Was a Sacramento Kings courtside fan ejected for tossing the basketball, or because Lakers star Luka Doncic wanted him ...",
-      "channelTitle": "Abubakar Opinion",
-      "publishedAt": "2026-11-13T14:25:11Z",
-      "thumbnail": "https://i.ytimg.com/vi/299FbTcvUUo/hqdefault.jpg",
-      "category": "Fan Reactions",
-      "url": "https://www.youtube.com/watch?v=299FbTcvUUo",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/299FbTcvUUo",
       "source": "YouTube"
     }
   ]
