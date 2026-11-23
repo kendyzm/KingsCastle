@@ -1,6 +1,6 @@
 {
   "title": "Sacramento Kings YouTube Videos",
-  "updatedAt": "2026-11-23T07:26:10.276498+00:00",
+  "updatedAt": "2026-11-23T23:48:41.816174+00:00",
   "source": "YouTube Data API v3",
   "searches": [
     "Sacramento Kings",
@@ -13,6 +13,342 @@
   "count": 100,
   "videos": [
     {
+      "id": "PSSW_iffasM",
+      "title": "Zach Lavine Embracing Kings Community  #kings #Sacramentokings #ZachLavine #Lavine #NBA",
+      "description": "Subscribe for the latest Sacramentos sports news & videos!! Listen live: https://www.audacy.com/espn1320/listen Visit our website: ...",
+      "channelTitle": "ESPN 1320 - Sacramento's Sports Leader",
+      "publishedAt": "2026-11-23T23:22:20Z",
+      "thumbnail": "https://i.ytimg.com/vi/PSSW_iffasM/hqdefault.jpg",
+      "category": "Kings",
+      "url": "https://www.youtube.com/watch?v=PSSW_iffasM",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/PSSW_iffasM",
+      "source": "YouTube"
+    },
+    {
+      "id": "wB5CmnA6F68",
+      "title": "This Is Perfect For The Kings... / MAJOR SIGNING",
+      "description": "he Sacramento Kings are signing Gabe Vincent as backup point guard behind Darius Acuff Jr., and the Kings bench needs the ...",
+      "channelTitle": "Kings Digest",
+      "publishedAt": "2026-11-23T22:30:51Z",
+      "thumbnail": "https://i.ytimg.com/vi/wB5CmnA6F68/hqdefault.jpg",
+      "category": "News",
+      "url": "https://www.youtube.com/watch?v=wB5CmnA6F68",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/wB5CmnA6F68",
+      "source": "YouTube"
+    },
+    {
+      "id": "2FzzLAbq8lY",
+      "title": "Is Gabe Vincent The Missing Piece For The Sacramento Kings",
+      "description": "The Sacramento Kings signed Gabe Vincent. What does that mean for rookie guard Darius Acuff Jr.? On ESPN 1320, we look at ...",
+      "channelTitle": "ESPN 1320 - Sacramento's Sports Leader",
+      "publishedAt": "2026-11-23T22:25:31Z",
+      "thumbnail": "https://i.ytimg.com/vi/2FzzLAbq8lY/hqdefault.jpg",
+      "category": "Kings",
+      "url": "https://www.youtube.com/watch?v=2FzzLAbq8lY",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/2FzzLAbq8lY",
+      "source": "YouTube"
+    },
+    {
+      "id": "iFKCqlhAqc0",
+      "title": "Kings Add Gabe Vincent: New Rotation Breakdown #shorts",
+      "description": "The Kings are adding a veteran PG Per Shams Charania of ESPN, free agent Gabe Vincent is finalizing a deal with ...",
+      "channelTitle": "Brigham Sport Talks",
+      "publishedAt": "2026-11-23T21:10:40Z",
+      "thumbnail": "https://i.ytimg.com/vi/iFKCqlhAqc0/hqdefault.jpg",
+      "category": "Kings",
+      "url": "https://www.youtube.com/watch?v=iFKCqlhAqc0",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/iFKCqlhAqc0",
+      "source": "YouTube"
+    },
+    {
+      "id": "is0zySJQBsU",
+      "title": "Darius Acuff Jr. Is Chasing Allen Iverson 🤯",
+      "description": "Send this to the person who thinks Rookie of the Year is already Cameron Boozer's to lose. Darius Acuff Jr. has put up at least 15 ...",
+      "channelTitle": "Yo, Did You Know?",
+      "publishedAt": "2026-11-23T21:02:17Z",
+      "thumbnail": "https://i.ytimg.com/vi/is0zySJQBsU/hqdefault.jpg",
+      "category": "Kings",
+      "url": "https://www.youtube.com/watch?v=is0zySJQBsU",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/is0zySJQBsU",
+      "source": "YouTube"
+    },
+    {
+      "id": "OfWfCqPAYmM",
+      "title": "👑🟣 Mixing Sacramento Kings Colors! | Satisfying NBA ASMR #12 🔊 #Shorts",
+      "description": "Purple, silver, black & white! Watch Sacramento Kings colors blend into SMOKY ROYAL PURPLE. Soft spatula taps + satisfying ...",
+      "channelTitle": "trialanderror7",
+      "publishedAt": "2026-11-23T20:36:50Z",
+      "thumbnail": "https://i.ytimg.com/vi/OfWfCqPAYmM/hqdefault.jpg",
+      "category": "Kings",
+      "url": "https://www.youtube.com/watch?v=OfWfCqPAYmM",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/OfWfCqPAYmM",
+      "source": "YouTube"
+    },
+    {
+      "id": "TBYLTpzLEaM",
+      "title": "Gabe Vincent finalizing deal with Sacramento Kings",
+      "description": "Free agent guard Gabe Vincent is finalizing a deal with the Sacramento Kings, sources tell ESPN. Vincent, 30, provides the Kings ...",
+      "channelTitle": "NBA Courtside Daily",
+      "publishedAt": "2026-11-23T20:01:23Z",
+      "thumbnail": "https://i.ytimg.com/vi/TBYLTpzLEaM/hqdefault.jpg",
+      "category": "Kings",
+      "url": "https://www.youtube.com/watch?v=TBYLTpzLEaM",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/TBYLTpzLEaM",
+      "source": "YouTube"
+    },
+    {
+      "id": "ZIFXBh6I7gU",
+      "title": "Golden State Warriors vs Sacramento Kings Full Game Highlights - Nov 23,2026 | NBA",
+      "description": "Golden State Warriors vs Sacramento Kings Full Game Highlights - Nov 23,2026 | NBA.",
+      "channelTitle": "Kiên Chổi Vip 5",
+      "publishedAt": "2026-11-23T20:00:20Z",
+      "thumbnail": "https://i.ytimg.com/vi/ZIFXBh6I7gU/hqdefault.jpg",
+      "category": "Highlights",
+      "url": "https://www.youtube.com/watch?v=ZIFXBh6I7gU",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/ZIFXBh6I7gU",
+      "source": "YouTube"
+    },
+    {
+      "id": "9jsNpvqsPKs",
+      "title": "🏀 LIVE: San Antonio Spurs vs Sacramento Kings | NBA Live Play-By-Play &amp; Reactions | Nov. 23, 2026 👀",
+      "description": "The San Antonio Spurs visit Sacramento to take on the Kings in what could be one of the most-viewed games on the entire slate.",
+      "channelTitle": "Eugorogue Sports",
+      "publishedAt": "2026-11-23T19:44:23Z",
+      "thumbnail": "https://i.ytimg.com/vi/9jsNpvqsPKs/hqdefault.jpg",
+      "category": "Fan Reactions",
+      "url": "https://www.youtube.com/watch?v=9jsNpvqsPKs",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/9jsNpvqsPKs",
+      "source": "YouTube"
+    },
+    {
+      "id": "obMU3HFahEo",
+      "title": "Los Angeles Clippers vs Sacramento Kings Full Game Highlights – November 24, 2026 | NBA Season Ps4",
+      "description": "nbahighlights #nba #gametimehighlights.",
+      "channelTitle": "NBA GAME 999",
+      "publishedAt": "2026-11-23T18:40:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/obMU3HFahEo/hqdefault.jpg",
+      "category": "Highlights",
+      "url": "https://www.youtube.com/watch?v=obMU3HFahEo",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/obMU3HFahEo",
+      "source": "YouTube"
+    },
+    {
+      "id": "HdW68FpY8Qg",
+      "title": "Darius Acuff Jr Is Upping the Standard On the Sacramento Kings",
+      "description": "How often does a rookie become the guy you want his teammates to follow? Darius Acuff Jr. is raising that question for the ...",
+      "channelTitle": "ESPN 1320 - Sacramento's Sports Leader",
+      "publishedAt": "2026-11-23T18:12:15Z",
+      "thumbnail": "https://i.ytimg.com/vi/HdW68FpY8Qg/hqdefault.jpg",
+      "category": "Kings",
+      "url": "https://www.youtube.com/watch?v=HdW68FpY8Qg",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/HdW68FpY8Qg",
+      "source": "YouTube"
+    },
+    {
+      "id": "NClJ4cIfXz8",
+      "title": "Do the Kings actually have a shot if Wemby&#39;s back flares up? #nba #spurs #wembanyama",
+      "description": "Wemby is listed day-to-day with a bad back. Do the 2-14 Kings finally have a shot tonight? Victor Wembanyama vs Sacramento ...",
+      "channelTitle": "Turn On Hoops",
+      "publishedAt": "2026-11-23T18:00:20Z",
+      "thumbnail": "https://i.ytimg.com/vi/NClJ4cIfXz8/hqdefault.jpg",
+      "category": "Kings",
+      "url": "https://www.youtube.com/watch?v=NClJ4cIfXz8",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/NClJ4cIfXz8",
+      "source": "YouTube"
+    },
+    {
+      "id": "rebuykWtCgo",
+      "title": "Is Malik Monk Getting Squeezed Out of the Kings’ Rotation",
+      "description": "What does the Sacramento Kings' signing of Gabe Vincent mean for Malik Monk? Thank you for watching. Don't forget to hit the ...",
+      "channelTitle": "Sactown Sports 1140",
+      "publishedAt": "2026-11-23T17:57:52Z",
+      "thumbnail": "https://i.ytimg.com/vi/rebuykWtCgo/hqdefault.jpg",
+      "category": "Kings",
+      "url": "https://www.youtube.com/watch?v=rebuykWtCgo",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/rebuykWtCgo",
+      "source": "YouTube"
+    },
+    {
+      "id": "1IWjJ8eF_zs",
+      "title": "What the Gabe Vincent signing means for the Sacramento Kings",
+      "description": "Jason Ross shares his thoughts on the Sacramento Kings' signing of veteran PG Gabe Vincent, and what it could mean for Malik ...",
+      "channelTitle": "Sactown Sports 1140",
+      "publishedAt": "2026-11-23T17:15:21Z",
+      "thumbnail": "https://i.ytimg.com/vi/1IWjJ8eF_zs/hqdefault.jpg",
+      "category": "Kings",
+      "url": "https://www.youtube.com/watch?v=1IWjJ8eF_zs",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/1IWjJ8eF_zs",
+      "source": "YouTube"
+    },
+    {
+      "id": "RgkfhyqtYZQ",
+      "title": "New Kings Signing is GOOD NEWS for Darius Acuff | D-Lo in the Afternoon",
+      "description": "Thank you for watching. Please subscribe and hit the thumbs up. 0:00 Stream Starts 2:05:00 Kings Defeat Celtics 2:15:00 Gabe ...",
+      "channelTitle": "ESPN 1320 - Sacramento's Sports Leader",
+      "publishedAt": "2026-11-23T17:08:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/RgkfhyqtYZQ/hqdefault.jpg",
+      "category": "News",
+      "url": "https://www.youtube.com/watch?v=RgkfhyqtYZQ",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/RgkfhyqtYZQ",
+      "source": "YouTube"
+    },
+    {
+      "id": "ExvImWn4BMQ",
+      "title": "Paul George 🏀 Reverse dunk vs. Sacramento Kings 😱🫣 #nba2k #highlights #video #fypシ",
+      "description": "paulgeorge #pg13 #shorts #shortvideo #nba2k #fyp #celtics.",
+      "channelTitle": "Genki GamingTv",
+      "publishedAt": "2026-11-23T16:50:37Z",
+      "thumbnail": "https://i.ytimg.com/vi/ExvImWn4BMQ/hqdefault.jpg",
+      "category": "Kings",
+      "url": "https://www.youtube.com/watch?v=ExvImWn4BMQ",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/ExvImWn4BMQ",
+      "source": "YouTube"
+    },
+    {
+      "id": "kIJ6ZWoQfMY",
+      "title": "The Future Suddenly Looks BRIGHT For The Kings... | Daily Sacramento Kings News &amp; Rumors",
+      "description": "Kings Latest is not endorsed, sponsored by, or affiliated with the NBA or its 30 teams. The content of our videos is intended for ...",
+      "channelTitle": "Kings Latest",
+      "publishedAt": "2026-11-23T16:30:09Z",
+      "thumbnail": "https://i.ytimg.com/vi/kIJ6ZWoQfMY/hqdefault.jpg",
+      "category": "Kings",
+      "url": "https://www.youtube.com/watch?v=kIJ6ZWoQfMY",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/kIJ6ZWoQfMY",
+      "source": "YouTube"
+    },
+    {
+      "id": "yuHSeJENxag",
+      "title": "NBA&#39;s Worst Teams Locked in a House | Tyler Herro 50 Points, Bucks Still Lose | Lottery House Ep. 1",
+      "description": "NBA #MilwaukeeBucks #SacramentoKings Lottery House, Episode 1: \"Move-In Day.\" Adam Silver locks the NBA's four worst ...",
+      "channelTitle": "The Buzzer Cut",
+      "publishedAt": "2026-11-23T16:30:06Z",
+      "thumbnail": "https://i.ytimg.com/vi/yuHSeJENxag/hqdefault.jpg",
+      "category": "Kings",
+      "url": "https://www.youtube.com/watch?v=yuHSeJENxag",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/yuHSeJENxag",
+      "source": "YouTube"
+    },
+    {
+      "id": "5uoLxP5af5E",
+      "title": "Sacramento Kings vs San Antonio Spurs – Match Prediction 24NOV 2026 #nba #nbahighlights #spurs #king",
+      "description": "spurs #nba #nbahighlights.",
+      "channelTitle": "KK–CONTENT",
+      "publishedAt": "2026-11-23T16:24:34Z",
+      "thumbnail": "https://i.ytimg.com/vi/5uoLxP5af5E/hqdefault.jpg",
+      "category": "Kings",
+      "url": "https://www.youtube.com/watch?v=5uoLxP5af5E",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/5uoLxP5af5E",
+      "source": "YouTube"
+    },
+    {
+      "id": "n0yzLapy46M",
+      "title": "Does Darius Acuff need to facilitate more for the Kings?",
+      "description": "WANT MORE DAILY SACRAMENTO KINGS CONTENT? Follow & Subscribe on all Podcast platforms ...",
+      "channelTitle": "Locked On Kings (Sacramento)",
+      "publishedAt": "2026-11-23T16:01:10Z",
+      "thumbnail": "https://i.ytimg.com/vi/n0yzLapy46M/hqdefault.jpg",
+      "category": "News",
+      "url": "https://www.youtube.com/watch?v=n0yzLapy46M",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/n0yzLapy46M",
+      "source": "YouTube"
+    },
+    {
+      "id": "2cpML4ktIRU",
+      "title": "Keegan Murray comes up clutch and hits the game winner in a win vs the Celtics.",
+      "description": "WANT MORE DAILY SACRAMENTO KINGS CONTENT? Follow & Subscribe on all Podcast platforms ...",
+      "channelTitle": "Locked On Kings (Sacramento)",
+      "publishedAt": "2026-11-23T15:51:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/2cpML4ktIRU/hqdefault.jpg",
+      "category": "Highlights",
+      "url": "https://www.youtube.com/watch?v=2cpML4ktIRU",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/2cpML4ktIRU",
+      "source": "YouTube"
+    },
+    {
+      "id": "_bgCqXo5YdY",
+      "title": "Sources: Free agent Gabe Vincent, Kings finalizing deal",
+      "description": "Sources: Free agent Gabe Vincent, Kings finalizing deal Faceless NBA stats — original motion graphics, no game footage.",
+      "channelTitle": "Statline",
+      "publishedAt": "2026-11-23T15:38:56Z",
+      "thumbnail": "https://i.ytimg.com/vi/_bgCqXo5YdY/hqdefault.jpg",
+      "category": "News",
+      "url": "https://www.youtube.com/watch?v=_bgCqXo5YdY",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/_bgCqXo5YdY",
+      "source": "YouTube"
+    },
+    {
+      "id": "BirUZTksFv8",
+      "title": "Last-Minute News, Rumors, Reports before Spurs vs Kings",
+      "description": "Go to http://kalshi.com/r/DIGESTNBA and all new users get $55 when they trade $25. Use promo code DIGESTNBA Josh Gosse ...",
+      "channelTitle": "Spurs Digest",
+      "publishedAt": "2026-11-23T15:38:11Z",
+      "thumbnail": "https://i.ytimg.com/vi/BirUZTksFv8/hqdefault.jpg",
+      "category": "News",
+      "url": "https://www.youtube.com/watch?v=BirUZTksFv8",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/BirUZTksFv8",
+      "source": "YouTube"
+    },
+    {
+      "id": "SLxYm-3ktE8",
+      "title": "Kings STUN Celtics 97-96 in a Thriller! 😱🔥 #london#nba #nbashorts #basketball #sports #lakers#shorts",
+      "description": "Kings STUN Celtics 97-96 in a Thriller! #london#nba #nbashorts #basketball #sports #lakers#shorts One point. That's all it ...",
+      "channelTitle": "The NBA Pulse",
+      "publishedAt": "2026-11-23T15:22:58Z",
+      "thumbnail": "https://i.ytimg.com/vi/SLxYm-3ktE8/hqdefault.jpg",
+      "category": "Highlights",
+      "url": "https://www.youtube.com/watch?v=SLxYm-3ktE8",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/SLxYm-3ktE8",
+      "source": "YouTube"
+    },
+    {
+      "id": "87D4XBsOWOQ",
+      "title": "KEEGAN MURRAY SHOCKS THE CELTICS! 😱 SACRAMENTO KINGS STEAL THE WIN IN A CRAZY FINISH!",
+      "description": "WHAT A CRAZY FINISH! The Sacramento Kings shock the Boston Celtics in a dramatic showdown, and Keegan Murray delivers ...",
+      "channelTitle": "RimZaro ",
+      "publishedAt": "2026-11-23T14:30:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/87D4XBsOWOQ/hqdefault.jpg",
+      "category": "Kings",
+      "url": "https://www.youtube.com/watch?v=87D4XBsOWOQ",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/87D4XBsOWOQ",
+      "source": "YouTube"
+    },
+    {
+      "id": "XiNbVfJw0fc",
+      "title": "#Shorts Sacramento Kings vs San Antonio Spurs Prediction - Nov 23, 2026",
+      "description": "Sacramento Kings vs San Antonio Spurs on Nov 23, 2026 — AI-powered score prediction and betting pick. Model prediction: ...",
+      "channelTitle": "Odds Insights",
+      "publishedAt": "2026-11-23T14:22:32Z",
+      "thumbnail": "https://i.ytimg.com/vi/XiNbVfJw0fc/hqdefault.jpg",
+      "category": "Kings",
+      "url": "https://www.youtube.com/watch?v=XiNbVfJw0fc",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/XiNbVfJw0fc",
+      "source": "YouTube"
+    },
+    {
+      "id": "j6rhg2pkqV0",
+      "title": "San Antonio Spurs vs Sacramento Kings | The Call — Buck Malone",
+      "description": "https://proconbets.com/nba/games/san-antonio-spurs-vs-sacramento-kings-2026-11-23?utm_source=youtube&utm_medium= ...",
+      "channelTitle": "ProConBets",
+      "publishedAt": "2026-11-23T13:07:56Z",
+      "thumbnail": "https://i.ytimg.com/vi/j6rhg2pkqV0/hqdefault.jpg",
+      "category": "Kings",
+      "url": "https://www.youtube.com/watch?v=j6rhg2pkqV0",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/j6rhg2pkqV0",
+      "source": "YouTube"
+    },
+    {
+      "id": "mt28XBnEeEQ",
+      "title": "Sacramento Kings vs Portland Trail Blazers Full Game Highlights | Nov 13, 2026 | NBA Highlights",
+      "description": "Sacramento ​Kings vs Portland Trail ​Blazers ​Full Game Highlights | Nov ​13, 2026 ​| NBA Highlights. Sacramento Kings vs ...",
+      "channelTitle": "코리아열풍",
+      "publishedAt": "2026-11-23T09:30:12Z",
+      "thumbnail": "https://i.ytimg.com/vi/mt28XBnEeEQ/hqdefault.jpg",
+      "category": "Highlights",
+      "url": "https://www.youtube.com/watch?v=mt28XBnEeEQ",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/mt28XBnEeEQ",
+      "source": "YouTube"
+    },
+    {
       "id": "SLW9gZ_2JQo",
       "title": "NBA Team Stats - Sacramento Kings #lightthebeam",
       "description": "",
@@ -22,6 +358,18 @@
       "category": "Kings",
       "url": "https://www.youtube.com/watch?v=SLW9gZ_2JQo",
       "embedUrl": "https://www.youtube-nocookie.com/embed/SLW9gZ_2JQo",
+      "source": "YouTube"
+    },
+    {
+      "id": "WLPoVCfp53k",
+      "title": "NBA&#39;s Top 5 Plays of the Night | November 22, 2026",
+      "description": "Never miss a moment with the latest news, trending stories and highlights to bring you closer to your favorite players and teams.",
+      "channelTitle": "NBA",
+      "publishedAt": "2026-11-23T04:52:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/WLPoVCfp53k/hqdefault.jpg",
+      "category": "Highlights",
+      "url": "https://www.youtube.com/watch?v=WLPoVCfp53k",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/WLPoVCfp53k",
       "source": "YouTube"
     },
     {
@@ -97,15 +445,27 @@
       "source": "YouTube"
     },
     {
-      "id": "buXa_rcAR4Q",
-      "title": "&quot;You didn&#39;t sign there to win the championship&quot; -- &quot;We&#39;re already in a fight&quot;",
-      "description": "\"When you signed for the Sacramento Kings, you didn't sign there to win the championship.\" \"Get the f*** off of here.\" \"We ain't ...",
-      "channelTitle": "PullUpTheTape",
-      "publishedAt": "2026-11-23T01:09:29Z",
-      "thumbnail": "https://i.ytimg.com/vi/buXa_rcAR4Q/hqdefault.jpg",
+      "id": "9_0gZeZ8s1k",
+      "title": "The Kings FINALLY WIN 🥰🥹",
+      "description": "",
+      "channelTitle": "Naifh Alehydeb",
+      "publishedAt": "2026-11-23T01:30:01Z",
+      "thumbnail": "https://i.ytimg.com/vi/9_0gZeZ8s1k/hqdefault.jpg",
       "category": "Kings",
-      "url": "https://www.youtube.com/watch?v=buXa_rcAR4Q",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/buXa_rcAR4Q",
+      "url": "https://www.youtube.com/watch?v=9_0gZeZ8s1k",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/9_0gZeZ8s1k",
+      "source": "YouTube"
+    },
+    {
+      "id": "lfNmr9wux0I",
+      "title": "Zach Lavine For GAME?? KP95TH Reacts To Lakers vs Kings Full Game Highlights - November 20, 2026",
+      "description": "Hopefully Yall Enjoyed The Video And Leave A Like And Subscribe! Business inquiries:kp95thbusiness@gmail.com JOIN THE ...",
+      "channelTitle": "KP95TH",
+      "publishedAt": "2026-11-23T01:24:08Z",
+      "thumbnail": "https://i.ytimg.com/vi/lfNmr9wux0I/hqdefault.jpg",
+      "category": "Fan Reactions",
+      "url": "https://www.youtube.com/watch?v=lfNmr9wux0I",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/lfNmr9wux0I",
       "source": "YouTube"
     },
     {
@@ -133,54 +493,6 @@
       "source": "YouTube"
     },
     {
-      "id": "FBeeXtgD2EU",
-      "title": "O MELHOR DRAFT DA HISTÓRIA DO SACRAMENTO KINGS! | REBUILD NBA2K27 #2",
-      "description": "Uma nova era começa em Sacramento! Assumimos o comando do Sacramento Kings no NBA 2K27 com uma missão: ...",
-      "channelTitle": "Cortes do Jota",
-      "publishedAt": "2026-11-23T00:10:05Z",
-      "thumbnail": "https://i.ytimg.com/vi/FBeeXtgD2EU/hqdefault.jpg",
-      "category": "Kings",
-      "url": "https://www.youtube.com/watch?v=FBeeXtgD2EU",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/FBeeXtgD2EU",
-      "source": "YouTube"
-    },
-    {
-      "id": "6YH9ldB0xy4",
-      "title": "THE CELTICS JUST LOST TO THE KINGS &amp; 3 IN A ROW … SHOULD BOSTON PANIC?! 😳",
-      "description": "LOSING TO THE KINGS?! The Celtics have dropped 3 straight, and Payton Pritchard's AIR BALL to end the game pretty much ...",
-      "channelTitle": "North of The Rim",
-      "publishedAt": "2026-11-22T23:15:27Z",
-      "thumbnail": "https://i.ytimg.com/vi/6YH9ldB0xy4/hqdefault.jpg",
-      "category": "Kings",
-      "url": "https://www.youtube.com/watch?v=6YH9ldB0xy4",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/6YH9ldB0xy4",
-      "source": "YouTube"
-    },
-    {
-      "id": "bwGNDkukek0",
-      "title": "Gabe, Vincent to the Kings! #nbahighlights #sacramentokings #gabevincent ￼",
-      "description": "",
-      "channelTitle": "HOOPER HAVEN ",
-      "publishedAt": "2026-11-22T23:00:35Z",
-      "thumbnail": "https://i.ytimg.com/vi/bwGNDkukek0/hqdefault.jpg",
-      "category": "Kings",
-      "url": "https://www.youtube.com/watch?v=bwGNDkukek0",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/bwGNDkukek0",
-      "source": "YouTube"
-    },
-    {
-      "id": "98z3uLHco2o",
-      "title": "Kings had to teach Acuff Jr. how to “Light the Beam” 🤣",
-      "description": "(via @SacramentoKings, BrendenNunesNBA/X) Sacramento Kings teach Darius Acuff Jr. how to \"Light the Beam\" #nba ...",
-      "channelTitle": "Bleacher Report",
-      "publishedAt": "2026-11-22T22:30:59Z",
-      "thumbnail": "https://i.ytimg.com/vi/98z3uLHco2o/hqdefault.jpg",
-      "category": "Kings",
-      "url": "https://www.youtube.com/watch?v=98z3uLHco2o",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/98z3uLHco2o",
-      "source": "YouTube"
-    },
-    {
       "id": "Dg84HWX-4xg",
       "title": "Cleveland Charge vs. Grand Rapids Gold - Game Highlights",
       "description": "The NBA G League is the NBA's official minor league. Fans can get a glimpse at the players, coaches and officials competing to ...",
@@ -205,6 +517,18 @@
       "source": "YouTube"
     },
     {
+      "id": "nbuK90NCtpY",
+      "title": "🚨 BREAKING NEWS: LUKA DONCIC REACTS TO LAKERS ROOKIE CAMERON CARR AFTER STUNNING PERFORMANCE! 😱🔥",
+      "description": "BREAKING NEWS: Luka Doncic has sent a powerful message about Los Angeles Lakers rookie Cameron Carr after his ...",
+      "channelTitle": "LAKERS NEWS TODAY",
+      "publishedAt": "2026-11-22T22:00:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/nbuK90NCtpY/hqdefault.jpg",
+      "category": "Fan Reactions",
+      "url": "https://www.youtube.com/watch?v=nbuK90NCtpY",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/nbuK90NCtpY",
+      "source": "YouTube"
+    },
+    {
       "id": "6-U1gtmZaT8",
       "title": "Lakers 106-104 Kings! 🔥 INSANE Comeback | Luka Dončić #NBA #Shorts",
       "description": "LAKERS 106-104 KINGS | NBA CUP 2026 The Los Angeles Lakers complete an incredible 11-point comeback to defeat the ...",
@@ -223,7 +547,7 @@
       "channelTitle": "Locked On Kings (Sacramento)",
       "publishedAt": "2026-11-22T21:40:13Z",
       "thumbnail": "https://i.ytimg.com/vi/OYVHywdWnqU/hqdefault.jpg",
-      "category": "Kings",
+      "category": "News",
       "url": "https://www.youtube.com/watch?v=OYVHywdWnqU",
       "embedUrl": "https://www.youtube-nocookie.com/embed/OYVHywdWnqU",
       "source": "YouTube"
@@ -238,6 +562,18 @@
       "category": "News",
       "url": "https://www.youtube.com/watch?v=zV46mIqAl7s",
       "embedUrl": "https://www.youtube-nocookie.com/embed/zV46mIqAl7s",
+      "source": "YouTube"
+    },
+    {
+      "id": "k93IBemweoc",
+      "title": "2-14 Kings Turn to Gabe Vincent to Stop the Bleed",
+      "description": "The Sacramento Kings are 2-14 and dead last in the Western Conference, and their emergency fix is a 30-year-old guard ...",
+      "channelTitle": "Pro Basket Pulse",
+      "publishedAt": "2026-11-22T21:34:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/k93IBemweoc/hqdefault.jpg",
+      "category": "News",
+      "url": "https://www.youtube.com/watch?v=k93IBemweoc",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/k93IBemweoc",
       "source": "YouTube"
     },
     {
@@ -259,7 +595,7 @@
       "channelTitle": "Alexy Knows Ball | Elite Ball Knowledge",
       "publishedAt": "2026-11-22T21:26:19Z",
       "thumbnail": "https://i.ytimg.com/vi/7cg51fMrU9w/hqdefault.jpg",
-      "category": "Kings",
+      "category": "News",
       "url": "https://www.youtube.com/watch?v=7cg51fMrU9w",
       "embedUrl": "https://www.youtube-nocookie.com/embed/7cg51fMrU9w",
       "source": "YouTube"
@@ -283,33 +619,9 @@
       "channelTitle": "Celtics Daily fans",
       "publishedAt": "2026-11-22T21:15:36Z",
       "thumbnail": "https://i.ytimg.com/vi/lY4CwF_MlX4/hqdefault.jpg",
-      "category": "Kings",
+      "category": "News",
       "url": "https://www.youtube.com/watch?v=lY4CwF_MlX4",
       "embedUrl": "https://www.youtube-nocookie.com/embed/lY4CwF_MlX4",
-      "source": "YouTube"
-    },
-    {
-      "id": "LL8UbIJeZDI",
-      "title": "Lakers vs Kings 106-104 | Full Game HIGHLIGHTS &amp; Analysis | November 20, 2026 NBA Cup",
-      "description": "Los Angeles Lakers 106-104 Sacramento Kings | Emirates NBA Cup, Group C | Crypto.com Arena, Los Angeles | November 20, ...",
-      "channelTitle": "Sport Titans",
-      "publishedAt": "2026-11-22T21:03:37Z",
-      "thumbnail": "https://i.ytimg.com/vi/LL8UbIJeZDI/hqdefault.jpg",
-      "category": "Highlights",
-      "url": "https://www.youtube.com/watch?v=LL8UbIJeZDI",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/LL8UbIJeZDI",
-      "source": "YouTube"
-    },
-    {
-      "id": "fxDhyCUXcgo",
-      "title": "Kings Sign Backup Ball Handler In Gabe Vincent #sacramentokings #nba",
-      "description": "Welcome to The Royal Report Support the channel: https://www.youtube.com/channel/UCWgLKwDUnVdYEFPGqYGgw9Q/join ...",
-      "channelTitle": "The Royal Report",
-      "publishedAt": "2026-11-22T20:52:24Z",
-      "thumbnail": "https://i.ytimg.com/vi/fxDhyCUXcgo/hqdefault.jpg",
-      "category": "Kings",
-      "url": "https://www.youtube.com/watch?v=fxDhyCUXcgo",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/fxDhyCUXcgo",
       "source": "YouTube"
     },
     {
@@ -319,7 +631,7 @@
       "channelTitle": "Deuce & Mo: Talking Kings, NBA & WNBA",
       "publishedAt": "2026-11-22T20:51:11Z",
       "thumbnail": "https://i.ytimg.com/vi/2hGCbXXg8JE/hqdefault.jpg",
-      "category": "Kings",
+      "category": "News",
       "url": "https://www.youtube.com/watch?v=2hGCbXXg8JE",
       "embedUrl": "https://www.youtube-nocookie.com/embed/2hGCbXXg8JE",
       "source": "YouTube"
@@ -337,18 +649,6 @@
       "source": "YouTube"
     },
     {
-      "id": "rNyDtgBRu38",
-      "title": "Denver Nuggets vs Sacramento Kings Full Game Highlights - November 23, 2026 | NBA Season",
-      "description": "nbahighlights #nba #gametimehighlights.",
-      "channelTitle": "NBA GAME 999",
-      "publishedAt": "2026-11-22T20:12:59Z",
-      "thumbnail": "https://i.ytimg.com/vi/rNyDtgBRu38/hqdefault.jpg",
-      "category": "Highlights",
-      "url": "https://www.youtube.com/watch?v=rNyDtgBRu38",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/rNyDtgBRu38",
-      "source": "YouTube"
-    },
-    {
       "id": "R5aKq8_DWjE",
       "title": "Sacramento Kings vs Boston Celtics live play by play and reaction",
       "description": "Made with Restream Studio. Livestream on 30+ platforms at once via https://restream.io The Boston Celtics play at the ...",
@@ -361,39 +661,15 @@
       "source": "YouTube"
     },
     {
-      "id": "BOc5LheaAro",
-      "title": "🔴 LIVE: Boston Celtics vs Sacramento Kings | NBA Play-By-Play &amp; Live Commentary",
-      "description": "BOSTON CELTICS vs SACRAMENTO KINGS – LIVE NBA PLAY-BY-PLAY!** The Boston Celtics head to Sacramento to take on ...",
-      "channelTitle": "NATR",
-      "publishedAt": "2026-11-22T18:42:48Z",
-      "thumbnail": "https://i.ytimg.com/vi/BOc5LheaAro/hqdefault.jpg",
-      "category": "News",
-      "url": "https://www.youtube.com/watch?v=BOc5LheaAro",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/BOc5LheaAro",
-      "source": "YouTube"
-    },
-    {
       "id": "ZsF_zx3C8KM",
       "title": "🔴 LIVE |  BOSTON CELTICS vs SACRAMENTO KINGS | NBA Live Scoreboard | Free GTA 6 Giveaway",
       "description": "BOSTON CELTICS vs SACRAMENTO KINGS LIVE SCOREBOARD Join DopeMedia for a fan-created live scoreboard and ...",
       "channelTitle": "Dope Media",
       "publishedAt": "2026-11-22T18:37:45Z",
       "thumbnail": "https://i.ytimg.com/vi/ZsF_zx3C8KM/hqdefault.jpg",
-      "category": "Kings",
+      "category": "Fan Reactions",
       "url": "https://www.youtube.com/watch?v=ZsF_zx3C8KM",
       "embedUrl": "https://www.youtube-nocookie.com/embed/ZsF_zx3C8KM",
-      "source": "YouTube"
-    },
-    {
-      "id": "u7yeyA6czp8",
-      "title": "Celtics Led 58-45, Then Kings Went 15-2",
-      "description": "Boston Celtics vs Sacramento Kings · NBA · November 21, 2026 The Celtics led the Kings 58-45 in the third quarter, then ...",
-      "channelTitle": "Clipboard Hoops",
-      "publishedAt": "2026-11-22T18:30:18Z",
-      "thumbnail": "https://i.ytimg.com/vi/u7yeyA6czp8/hqdefault.jpg",
-      "category": "Kings",
-      "url": "https://www.youtube.com/watch?v=u7yeyA6czp8",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/u7yeyA6czp8",
       "source": "YouTube"
     },
     {
@@ -409,18 +685,6 @@
       "source": "YouTube"
     },
     {
-      "id": "YbQBYPBnbVU",
-      "title": "Pritchard Fired at the Horn, Celtics Lost by 1",
-      "description": "Boston Celtics vs Sacramento Kings · NBA · November 21, 2026 Down 97-96 with 0.0 seconds left in the fourth quarter, Payton ...",
-      "channelTitle": "Clipboard Hoops",
-      "publishedAt": "2026-11-22T17:27:56Z",
-      "thumbnail": "https://i.ytimg.com/vi/YbQBYPBnbVU/hqdefault.jpg",
-      "category": "Kings",
-      "url": "https://www.youtube.com/watch?v=YbQBYPBnbVU",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/YbQBYPBnbVU",
-      "source": "YouTube"
-    },
-    {
       "id": "634JuE9TrII",
       "title": "Keegan Murray Game Winner! Kings Stun Celtics 97-96 — NBA Highlights, Kings End 8-Game Skid",
       "description": "The Sacramento Kings were 1-14 and winless at home. Then they beat the Boston Celtics at the buzzer. Keegan Murray tipped in ...",
@@ -430,6 +694,18 @@
       "category": "Highlights",
       "url": "https://www.youtube.com/watch?v=634JuE9TrII",
       "embedUrl": "https://www.youtube-nocookie.com/embed/634JuE9TrII",
+      "source": "YouTube"
+    },
+    {
+      "id": "Naq2KJK5fAc",
+      "title": "KINGS LIGHT THE BEAM FOR FIRST TIME THIS SEASON 🚨🔥#nba #kings #nbavideos #nbahighlights",
+      "description": "shorts #nba #nbaedits #nbavideos #nbanews #nbarumors #nbahighlights #nbaplayers #highlights Best place for NBA ...",
+      "channelTitle": "NBA LIV3",
+      "publishedAt": "2026-11-22T16:31:06Z",
+      "thumbnail": "https://i.ytimg.com/vi/Naq2KJK5fAc/hqdefault.jpg",
+      "category": "News",
+      "url": "https://www.youtube.com/watch?v=Naq2KJK5fAc",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/Naq2KJK5fAc",
       "source": "YouTube"
     },
     {
@@ -445,18 +721,6 @@
       "source": "YouTube"
     },
     {
-      "id": "MsjY4GaDt0I",
-      "title": "NBA Results: Kings Upset Celtics, Bridges at the Buzzer &amp; Wemby’s 50 | Bratty News",
-      "description": "NBA scores and results for Nov. 21, 2026. Keegan Murray's late putback lifted Sacramento over Boston, Mikal Bridges beat the ...",
-      "channelTitle": "Scott Everett",
-      "publishedAt": "2026-11-22T16:07:09Z",
-      "thumbnail": "https://i.ytimg.com/vi/MsjY4GaDt0I/hqdefault.jpg",
-      "category": "News",
-      "url": "https://www.youtube.com/watch?v=MsjY4GaDt0I",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/MsjY4GaDt0I",
-      "source": "YouTube"
-    },
-    {
       "id": "PxcTjOruwGA",
       "title": "NBA Home Teams Sweep All 6 Games! Knicks &amp; Kings Lead Saturday Night Victories 🏀 #NBA #NBAScores",
       "description": "HOME TEAMS SWEPT THE NBA! Saturday, November 21, 2026, delivered six exciting NBA matchups, and all six home teams ...",
@@ -469,15 +733,15 @@
       "source": "YouTube"
     },
     {
-      "id": "77SpPbZoXOs",
-      "title": "Kings Finally Win at Home, Knicks Win at the Buzzer | Saturday Recap | Fantasy Basketball",
-      "description": "Kings 97, Celtics 96: Boston led by 13 at the half, went 0-for-13 from three in the third, and Keegan Murray's putback with 5 ...",
-      "channelTitle": "League Winner Sports",
-      "publishedAt": "2026-11-22T15:30:08Z",
-      "thumbnail": "https://i.ytimg.com/vi/77SpPbZoXOs/hqdefault.jpg",
-      "category": "Kings",
-      "url": "https://www.youtube.com/watch?v=77SpPbZoXOs",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/77SpPbZoXOs",
+      "id": "0fo-GCmohqo",
+      "title": "Wemby&#39;s 50, Bridges&#39; Buzzer-Beater &amp; Kings End 8-Game Skid | Saturday Night Cap | NBA News",
+      "description": "Saturday night in the NBA: Victor Wembanyama drops 50 in the Spurs' win, Mikal Bridges hits a buzzer-beater for the Knicks, and ...",
+      "channelTitle": "Beyond the Arc News",
+      "publishedAt": "2026-11-22T15:32:49Z",
+      "thumbnail": "https://i.ytimg.com/vi/0fo-GCmohqo/hqdefault.jpg",
+      "category": "News",
+      "url": "https://www.youtube.com/watch?v=0fo-GCmohqo",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/0fo-GCmohqo",
       "source": "YouTube"
     },
     {
@@ -487,57 +751,9 @@
       "channelTitle": "Wealthy Harvest Production",
       "publishedAt": "2026-11-22T15:20:22Z",
       "thumbnail": "https://i.ytimg.com/vi/i12gJQoJR_c/hqdefault.jpg",
-      "category": "Kings",
+      "category": "News",
       "url": "https://www.youtube.com/watch?v=i12gJQoJR_c",
       "embedUrl": "https://www.youtube-nocookie.com/embed/i12gJQoJR_c",
-      "source": "YouTube"
-    },
-    {
-      "id": "VYknJ8_XcYU",
-      "title": "KINGS BEAT THE CELTICS ‼️😭",
-      "description": "SacramentoKings #Celtics #NBA #LightTheBeam #CelticsNation.",
-      "channelTitle": "Beanie Sports",
-      "publishedAt": "2026-11-22T15:06:07Z",
-      "thumbnail": "https://i.ytimg.com/vi/VYknJ8_XcYU/hqdefault.jpg",
-      "category": "Kings",
-      "url": "https://www.youtube.com/watch?v=VYknJ8_XcYU",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/VYknJ8_XcYU",
-      "source": "YouTube"
-    },
-    {
-      "id": "45zZU-3OvpA",
-      "title": "NOW LIGHT THAT BEAM UP IN THE SKY 🟣🔦🎶 #sacramentokings #bostonceltics #nba #basketball",
-      "description": "",
-      "channelTitle": "The Kang Gang Podcast",
-      "publishedAt": "2026-11-22T15:00:25Z",
-      "thumbnail": "https://i.ytimg.com/vi/45zZU-3OvpA/hqdefault.jpg",
-      "category": "Kings",
-      "url": "https://www.youtube.com/watch?v=45zZU-3OvpA",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/45zZU-3OvpA",
-      "source": "YouTube"
-    },
-    {
-      "id": "qwZyIAe8Wuo",
-      "title": "#Shorts Boston Celtics @ Sacramento Kings Recap - Nov 21, 2026",
-      "description": "Recap of the Boston Celtics @ Sacramento Kings game on Nov 21, 2026 — final score, and how the odds and our model ...",
-      "channelTitle": "Odds Insights",
-      "publishedAt": "2026-11-22T14:52:30Z",
-      "thumbnail": "https://i.ytimg.com/vi/qwZyIAe8Wuo/hqdefault.jpg",
-      "category": "Kings",
-      "url": "https://www.youtube.com/watch?v=qwZyIAe8Wuo",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/qwZyIAe8Wuo",
-      "source": "YouTube"
-    },
-    {
-      "id": "HUf62OO9pIQ",
-      "title": "Kings Stun Celtics 97–96 for First Home Win as Boston Misses Record 45 Threes",
-      "description": "The Sacramento Kings finally won at home. Keegan Murray's tip-in over three defenders with 5.0 seconds left lifted Sacramento to ...",
-      "channelTitle": "US TrendWatch",
-      "publishedAt": "2026-11-22T13:11:11Z",
-      "thumbnail": "https://i.ytimg.com/vi/HUf62OO9pIQ/hqdefault.jpg",
-      "category": "News",
-      "url": "https://www.youtube.com/watch?v=HUf62OO9pIQ",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/HUf62OO9pIQ",
       "source": "YouTube"
     },
     {
@@ -550,18 +766,6 @@
       "category": "Highlights",
       "url": "https://www.youtube.com/watch?v=FfbpetN_9mU",
       "embedUrl": "https://www.youtube-nocookie.com/embed/FfbpetN_9mU",
-      "source": "YouTube"
-    },
-    {
-      "id": "dSKNHNR7DxM",
-      "title": "The Celtics Just Lost to the Kings... Yes, Really",
-      "description": "Sam and Jack are back with another Boston Celtics podcast. In this one, they discuss the Celtics' 97-96 loss to the Sacramento ...",
-      "channelTitle": "How 'Bout Them Celtics",
-      "publishedAt": "2026-11-22T13:00:26Z",
-      "thumbnail": "https://i.ytimg.com/vi/dSKNHNR7DxM/hqdefault.jpg",
-      "category": "News",
-      "url": "https://www.youtube.com/watch?v=dSKNHNR7DxM",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/dSKNHNR7DxM",
       "source": "YouTube"
     },
     {
@@ -589,30 +793,6 @@
       "source": "YouTube"
     },
     {
-      "id": "YUU-BpJWLqI",
-      "title": "Keegan Murray&#39;s putback ends Kings&#39; eight-game losing streak",
-      "description": "NBA: Murray putback with 5 seconds left lifts Kings to 97-96 win over Celtics Video from: - @sacramentokings / TikTok: ...",
-      "channelTitle": "Super Intelligence News",
-      "publishedAt": "2026-11-22T12:18:38Z",
-      "thumbnail": "https://i.ytimg.com/vi/YUU-BpJWLqI/hqdefault.jpg",
-      "category": "News",
-      "url": "https://www.youtube.com/watch?v=YUU-BpJWLqI",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/YUU-BpJWLqI",
-      "source": "YouTube"
-    },
-    {
-      "id": "ILwKwZNd2L8",
-      "title": "Kings Win vs Celtics: Murray&#39;s Heroics",
-      "description": "This video reports on the Sacramento Kings' 97-96 victory over the Boston Celtics, highlighting Keegan Murray's 15 points and 12 ...",
-      "channelTitle": "Batmaning TV",
-      "publishedAt": "2026-11-22T12:09:31Z",
-      "thumbnail": "https://i.ytimg.com/vi/ILwKwZNd2L8/hqdefault.jpg",
-      "category": "News",
-      "url": "https://www.youtube.com/watch?v=ILwKwZNd2L8",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/ILwKwZNd2L8",
-      "source": "YouTube"
-    },
-    {
       "id": "W13mNtgIVLg",
       "title": "Herro and Wemby Both Drop 50, Kings and Knicks Win by One | NBA Recap Nov 21",
       "description": "NBA recap of Saturday, November 21, 2026. Tyler Herro scored 50 but the Sixers beat the Bucks 132-129. Victor Wembanyama ...",
@@ -625,18 +805,6 @@
       "source": "YouTube"
     },
     {
-      "id": "S7PjqLOdCos",
-      "title": "Darius Acuff Jr. 25+ a game: first rookie since Michael Jordan 🏀",
-      "description": "Kings rookie Darius Acuff Jr. is averaging 25+ points through his first 15 NBA games. Per NBA.com, he is the first rookie to do that ...",
-      "channelTitle": "The Peaky Mindset",
-      "publishedAt": "2026-11-22T12:00:00Z",
-      "thumbnail": "https://i.ytimg.com/vi/S7PjqLOdCos/hqdefault.jpg",
-      "category": "News",
-      "url": "https://www.youtube.com/watch?v=S7PjqLOdCos",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/S7PjqLOdCos",
-      "source": "YouTube"
-    },
-    {
       "id": "buixrClcPtg",
       "title": "NBA Darren Collison Reacts to Kings Upset Celtics! 1 of 4",
       "description": "Former Sacramento Kings guard Darren Collison joins Lexie Brown and Stan Verrett on NBA TV to break down Sacramento's ...",
@@ -646,42 +814,6 @@
       "category": "Fan Reactions",
       "url": "https://www.youtube.com/watch?v=buixrClcPtg",
       "embedUrl": "https://www.youtube-nocookie.com/embed/buixrClcPtg",
-      "source": "YouTube"
-    },
-    {
-      "id": "ZZ1RgIEX4yA",
-      "title": "Keegan Murray Putback vs Celtics — 5 Seconds Left?! #shorts",
-      "description": "Keegan Murray's putback tip-in with 5.0 seconds left lifts the Sacramento Kings past the Boston Celtics 97-96 on Nov 21, 2026 at ...",
-      "channelTitle": "Dustin Boyd",
-      "publishedAt": "2026-11-22T11:12:07Z",
-      "thumbnail": "https://i.ytimg.com/vi/ZZ1RgIEX4yA/hqdefault.jpg",
-      "category": "News",
-      "url": "https://www.youtube.com/watch?v=ZZ1RgIEX4yA",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/ZZ1RgIEX4yA",
-      "source": "YouTube"
-    },
-    {
-      "id": "POvHFLlyxps",
-      "title": "Sacramento Kings Win 97-96 vs Celtics",
-      "description": "This video reports on the Sacramento Kings' 97-96 victory over the Boston Celtics, highlighting Keegan Murray's game-winning ...",
-      "channelTitle": "Batmaning TV",
-      "publishedAt": "2026-11-22T10:50:09Z",
-      "thumbnail": "https://i.ytimg.com/vi/POvHFLlyxps/hqdefault.jpg",
-      "category": "News",
-      "url": "https://www.youtube.com/watch?v=POvHFLlyxps",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/POvHFLlyxps",
-      "source": "YouTube"
-    },
-    {
-      "id": "G0lmH0a7ppQ",
-      "title": "The Two Win Kings Beat Boston and Nobody Saw It Coming",
-      "description": "Sacramento came in 2 and 14 and beat the Celtics 97 to 96. That is a guy who only fights the biggest dude at the bar. #kings ...",
-      "channelTitle": "Nini Vision",
-      "publishedAt": "2026-11-22T10:26:25Z",
-      "thumbnail": "https://i.ytimg.com/vi/G0lmH0a7ppQ/hqdefault.jpg",
-      "category": "News",
-      "url": "https://www.youtube.com/watch?v=G0lmH0a7ppQ",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/G0lmH0a7ppQ",
       "source": "YouTube"
     },
     {
@@ -709,37 +841,13 @@
       "source": "YouTube"
     },
     {
-      "id": "jb0-z_N676A",
-      "title": "Lakers SURVIVE the Kings 106-104 — Luka Called It &quot;Unacceptable&quot; and Grimes Hit the DAGGER!",
-      "description": "Two nights after losing to the 1-13 Utah Jazz, Luka Doncic called his own performance \"unacceptable.\" Then the Sacramento ...",
-      "channelTitle": "Yapping Hoops",
-      "publishedAt": "2026-11-22T09:46:29Z",
-      "thumbnail": "https://i.ytimg.com/vi/jb0-z_N676A/hqdefault.jpg",
-      "category": "News",
-      "url": "https://www.youtube.com/watch?v=jb0-z_N676A",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/jb0-z_N676A",
-      "source": "YouTube"
-    },
-    {
-      "id": "SvWlYbQGLko",
-      "title": "Kings vs Celtics 97-96 HIGHLIGHTS | CRAZY 1-Point Finish! | NBA 2026/27",
-      "description": "Sacramento Kings defeated the Boston Celtics 97-96 in an exciting NBA showdown tonight in Sacramento! Darius Acuff Jr.",
-      "channelTitle": "DroidTV74",
-      "publishedAt": "2026-11-22T09:21:05Z",
-      "thumbnail": "https://i.ytimg.com/vi/SvWlYbQGLko/hqdefault.jpg",
-      "category": "Highlights",
-      "url": "https://www.youtube.com/watch?v=SvWlYbQGLko",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/SvWlYbQGLko",
-      "source": "YouTube"
-    },
-    {
       "id": "vib63AvzU8U",
       "title": "DISGUSTING: Boston Celtics LOSE To Sacramento Kings After DISASTER 3rd Quarter",
       "description": "Boston Celtics suffer shocking defeat to the Sacramento Kings after squandering a 13-point lead and a disastrous third quarter.",
       "channelTitle": "Locked On Celtics",
       "publishedAt": "2026-11-22T08:56:16Z",
       "thumbnail": "https://i.ytimg.com/vi/vib63AvzU8U/hqdefault.jpg",
-      "category": "News",
+      "category": "Analysis & Podcasts",
       "url": "https://www.youtube.com/watch?v=vib63AvzU8U",
       "embedUrl": "https://www.youtube-nocookie.com/embed/vib63AvzU8U",
       "source": "YouTube"
@@ -778,18 +886,6 @@
       "category": "Highlights",
       "url": "https://www.youtube.com/watch?v=MCa876wftrk",
       "embedUrl": "https://www.youtube-nocookie.com/embed/MCa876wftrk",
-      "source": "YouTube"
-    },
-    {
-      "id": "DD37XP-HvXM",
-      "title": "Sabonis, Acuff Jr. and the Kings STUN Boston! Sacramento Kings vs. Boston Celtics - Condensed Game",
-      "description": "The #sacramentokings take down the #bostonceltics in the final moments behind Damantas Sabonis (15 PTS, 17 AST) and ...",
-      "channelTitle": "ESPN Australia",
-      "publishedAt": "2026-11-22T08:18:11Z",
-      "thumbnail": "https://i.ytimg.com/vi/DD37XP-HvXM/hqdefault.jpg",
-      "category": "News",
-      "url": "https://www.youtube.com/watch?v=DD37XP-HvXM",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/DD37XP-HvXM",
       "source": "YouTube"
     },
     {
@@ -877,18 +973,6 @@
       "source": "YouTube"
     },
     {
-      "id": "Pd96Moc7DOo",
-      "title": "Watch top plays, highlights from Kings’ win over Celtics | NBC Sports California",
-      "description": "Watch extended highlights of the Sacramento Kings' 97-96 win over the Boston Celtics on Saturday at Golden 1 Center.",
-      "channelTitle": "NBC Sports Bay Area & California",
-      "publishedAt": "2026-11-22T07:42:47Z",
-      "thumbnail": "https://i.ytimg.com/vi/Pd96Moc7DOo/hqdefault.jpg",
-      "category": "Highlights",
-      "url": "https://www.youtube.com/watch?v=Pd96Moc7DOo",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/Pd96Moc7DOo",
-      "source": "YouTube"
-    },
-    {
       "id": "aDcz5RotoyE",
       "title": "Precious Achiuwa sees Kings’ path forward as brighter after win | NBC Sports California",
       "description": "Forward Precious Achiuwa joins “Kings Postgame Live” to discuss Sacramento's win over the Boston Celtics on Saturday at ...",
@@ -973,18 +1057,6 @@
       "source": "YouTube"
     },
     {
-      "id": "tPV6B3PfjfY",
-      "title": "Boston Celtics vs Sacramento Kings Full Game Highlights - November 21, 2026 | NBA Season",
-      "description": "Boston Celtics vs Sacramento Kings Full Game Highlights - November 21, 2026 | NBA Season Interested in Kalshi? Eligible new ...",
-      "channelTitle": "The CCB Network",
-      "publishedAt": "2026-11-22T06:44:44Z",
-      "thumbnail": "https://i.ytimg.com/vi/tPV6B3PfjfY/hqdefault.jpg",
-      "category": "Highlights",
-      "url": "https://www.youtube.com/watch?v=tPV6B3PfjfY",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/tPV6B3PfjfY",
-      "source": "YouTube"
-    },
-    {
       "id": "lWAoid8LT8Y",
       "title": "Domantas Sabonis on Kings improving to 2-14 after Keegan Murray&#39;s game winner vs. Celtics",
       "description": "Sacramento Kings center Domantas Sabonis spoke with reporters Saturday night following their 97-96 win over the Boston Celtics ...",
@@ -1009,6 +1081,18 @@
       "source": "YouTube"
     },
     {
+      "id": "RfdbbYni4pM",
+      "title": "Darius Acuff Jr. after the Kings win over Boston, getting to light the beam for the first time",
+      "description": "Sacramento Kings guard Darius Acuff Jr. spoke with reporters Saturday night following their 97-96 win over the Boston Celtics.",
+      "channelTitle": "Sactown Sports 1140",
+      "publishedAt": "2026-11-22T06:31:17Z",
+      "thumbnail": "https://i.ytimg.com/vi/RfdbbYni4pM/hqdefault.jpg",
+      "category": "Fan Reactions",
+      "url": "https://www.youtube.com/watch?v=RfdbbYni4pM",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/RfdbbYni4pM",
+      "source": "YouTube"
+    },
+    {
       "id": "wjz_Zah44fY",
       "title": "Joe Mazzulla: &quot;We played well enough to win the game.&quot; | Celtic vs Kings Postgame",
       "description": "Subscribe to CLNS Media's Celtics Press Conference channel for all the latest press conferences, locker room interviews and ...",
@@ -1021,30 +1105,6 @@
       "source": "YouTube"
     },
     {
-      "id": "Soht9yokMEs",
-      "title": "Final 4:12 WILD ENDING Celtics at Kings | November 21, 2026",
-      "description": "The Kings defeated the Celtics, 97-96 tonight in Sacramento. Darius Acuff Jr. finished with a team-high 21 points along with 8 ...",
-      "channelTitle": "NBA",
-      "publishedAt": "2026-11-22T06:14:47Z",
-      "thumbnail": "https://i.ytimg.com/vi/Soht9yokMEs/hqdefault.jpg",
-      "category": "Highlights",
-      "url": "https://www.youtube.com/watch?v=Soht9yokMEs",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/Soht9yokMEs",
-      "source": "YouTube"
-    },
-    {
-      "id": "osbd9VXDluQ",
-      "title": "Boston Celtics vs Sacramento Kings - Full Game Highlights | Nov 21, 2026 NBA Regular Season",
-      "description": "Relive all the intense action, clutch plays, and hard-fought battle from the NBA Regular Season clash between the Boston Celtics ...",
-      "channelTitle": "강우진",
-      "publishedAt": "2026-11-22T06:14:05Z",
-      "thumbnail": "https://i.ytimg.com/vi/osbd9VXDluQ/hqdefault.jpg",
-      "category": "Highlights",
-      "url": "https://www.youtube.com/watch?v=osbd9VXDluQ",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/osbd9VXDluQ",
-      "source": "YouTube"
-    },
-    {
       "id": "YKOHQjlNZ-c",
       "title": "INSTANT REACTION: C&#39;s go COLD FROM THREE in disastrous third quarter in loss to Kings",
       "description": "Chris Forsberg and Eddie House join Kayla Burton to offer instant reaction and analysis following the Boston Celtics' 97-96 loss to ...",
@@ -1054,6 +1114,30 @@
       "category": "Fan Reactions",
       "url": "https://www.youtube.com/watch?v=YKOHQjlNZ-c",
       "embedUrl": "https://www.youtube-nocookie.com/embed/YKOHQjlNZ-c",
+      "source": "YouTube"
+    },
+    {
+      "id": "NYMgEXwuFgs",
+      "title": "CELTICS POSTCAST: Celtics LAY AN EGG Against the Kings",
+      "description": "The Boston Celtics just gave the Sacramento Kings their second win of the season, 97-96. Mike Conley had a tremendous game ...",
+      "channelTitle": "Locked On Celtics",
+      "publishedAt": "2026-11-22T06:12:18Z",
+      "thumbnail": "https://i.ytimg.com/vi/NYMgEXwuFgs/hqdefault.jpg",
+      "category": "Fan Reactions",
+      "url": "https://www.youtube.com/watch?v=NYMgEXwuFgs",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/NYMgEXwuFgs",
+      "source": "YouTube"
+    },
+    {
+      "id": "m04w-QZ48rQ",
+      "title": "CELTICS at KINGS | FULL GAME HIGHLIGHTS | November 21, 2026",
+      "description": "The Kings defeated the Celtics, 97-96 tonight in Sacramento. Darius Acuff Jr. finished with a team-high 21 points along with 8 ...",
+      "channelTitle": "NBA",
+      "publishedAt": "2026-11-22T05:47:55Z",
+      "thumbnail": "https://i.ytimg.com/vi/m04w-QZ48rQ/hqdefault.jpg",
+      "category": "Fan Reactions",
+      "url": "https://www.youtube.com/watch?v=m04w-QZ48rQ",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/m04w-QZ48rQ",
       "source": "YouTube"
     },
     {
@@ -1126,90 +1210,6 @@
       "category": "Fan Reactions",
       "url": "https://www.youtube.com/watch?v=WoFMtb27UGk",
       "embedUrl": "https://www.youtube-nocookie.com/embed/WoFMtb27UGk",
-      "source": "YouTube"
-    },
-    {
-      "id": "F9OTSxBycrY",
-      "title": "🔴 LAKERS BEAT KINGS IN A THRILLER!",
-      "description": "LAKERS BEAT KINGS IN A THRILLER! HUGE BOUNCE BACK WIN! | Lakers vs Kings Postgame Follow My Kick Channel to ...",
-      "channelTitle": "Lakers Index+",
-      "publishedAt": "2026-11-21T18:44:14Z",
-      "thumbnail": "https://i.ytimg.com/vi/F9OTSxBycrY/hqdefault.jpg",
-      "category": "Fan Reactions",
-      "url": "https://www.youtube.com/watch?v=F9OTSxBycrY",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/F9OTSxBycrY",
-      "source": "YouTube"
-    },
-    {
-      "id": "YE5HAXWgQ-c",
-      "title": "**LIVE** | Lakers Vs Kings Play by Play &amp; Reaction",
-      "description": "Sign up for PrizePicks with code HMA Play $5 and get $50 https://link.prizepicks.com/LME0/HMA -Sign up for PrizePicks with code ...",
-      "channelTitle": "Baddog Sports",
-      "publishedAt": "2026-11-21T18:32:43Z",
-      "thumbnail": "https://i.ytimg.com/vi/YE5HAXWgQ-c/hqdefault.jpg",
-      "category": "Fan Reactions",
-      "url": "https://www.youtube.com/watch?v=YE5HAXWgQ-c",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/YE5HAXWgQ-c",
-      "source": "YouTube"
-    },
-    {
-      "id": "nFexeGnst-k",
-      "title": "Kings vs Lakers Live| NBA Cup Play-By-Play Reaction &amp; Live Scoreboard",
-      "description": "Sacramento Kings (1-13) vs. Los Angeles Lakers (13-3) | Emirates NBA Cup Live Play-by-Play & Reaction! Welcome to Tighten ...",
-      "channelTitle": "Tighten up Sports ",
-      "publishedAt": "2026-11-21T18:31:03Z",
-      "thumbnail": "https://i.ytimg.com/vi/nFexeGnst-k/hqdefault.jpg",
-      "category": "Fan Reactions",
-      "url": "https://www.youtube.com/watch?v=nFexeGnst-k",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/nFexeGnst-k",
-      "source": "YouTube"
-    },
-    {
-      "id": "cgO8t6I4ICE",
-      "title": "Lakers fan watches them almost blow it vs the Kings 😭 #lakers #nba #shorts #fyp",
-      "description": "Up 2, 5 seconds left, Kessler at the line… 'If we lost, this video would've been cut.' Full reaction ...",
-      "channelTitle": "Currymydaddy",
-      "publishedAt": "2026-11-21T17:00:22Z",
-      "thumbnail": "https://i.ytimg.com/vi/cgO8t6I4ICE/hqdefault.jpg",
-      "category": "Fan Reactions",
-      "url": "https://www.youtube.com/watch?v=cgO8t6I4ICE",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/cgO8t6I4ICE",
-      "source": "YouTube"
-    },
-    {
-      "id": "oMSAIf28ByA",
-      "title": "Lakers Fav Opp Reaction To Sacramento Kings vs Los Angeles Lakers - HIGHLIGHTS Nov 20, 2026 NBA Cup",
-      "description": "Welcome To CutOffNate channel ! Yo it's nate, and i'm here to entertain everyone and keep a smile on everybody face!.. Thanks to ...",
-      "channelTitle": "CutOffNate",
-      "publishedAt": "2026-11-21T16:23:50Z",
-      "thumbnail": "https://i.ytimg.com/vi/oMSAIf28ByA/hqdefault.jpg",
-      "category": "Fan Reactions",
-      "url": "https://www.youtube.com/watch?v=oMSAIf28ByA",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/oMSAIf28ByA",
-      "source": "YouTube"
-    },
-    {
-      "id": "P6Vy8ktUqVo",
-      "title": "SNOWTIME LAKERS NUMBER 1! | Los Angeles Lakers vs Sacramento Kings | Reaction",
-      "description": "Sub Here: https://www.youtube.com/channel/UCHH1QHiGn7FzIoqyMcqUq1A FOLLOW ME ON IG, TWITTER, TIKTOK ...",
-      "channelTitle": "TeeJay The Artist",
-      "publishedAt": "2026-11-21T14:50:24Z",
-      "thumbnail": "https://i.ytimg.com/vi/P6Vy8ktUqVo/hqdefault.jpg",
-      "category": "Fan Reactions",
-      "url": "https://www.youtube.com/watch?v=P6Vy8ktUqVo",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/P6Vy8ktUqVo",
-      "source": "YouTube"
-    },
-    {
-      "id": "jkTjlcE2jkQ",
-      "title": "Boston Celtics vs Sacramento Kings Pick 11/21/26 NBA Pick Prediction",
-      "description": "Boston Celtics vs Sacramento Kings Pick 11/21/26 NBA Pick Prediction by Tony Tellez Click Below to buy Tony T's Best Bet ...",
-      "channelTitle": "Tony's Picks",
-      "publishedAt": "2026-11-21T10:19:12Z",
-      "thumbnail": "https://i.ytimg.com/vi/jkTjlcE2jkQ/hqdefault.jpg",
-      "category": "Analysis & Podcasts",
-      "url": "https://www.youtube.com/watch?v=jkTjlcE2jkQ",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/jkTjlcE2jkQ",
       "source": "YouTube"
     }
   ]
