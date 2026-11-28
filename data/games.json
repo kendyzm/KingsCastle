@@ -4,7 +4,7 @@
   "seasonType": "2",
   "seasonLabel": "2026–27 REGULAR SEASON",
   "source": "ESPN public scoreboard/schedule API",
-  "updatedAt": "2026-11-28T01:52:25.174735+00:00",
+  "updatedAt": "2026-11-28T10:11:38.641872+00:00",
   "games": [
     {
       "id": "401909842",
@@ -294,6 +294,34 @@
       "opponentAbbr": "PHX",
       "isHome": false,
       "venue": "Mortgage Matchup Center · Phoenix",
+      "status": "scheduled",
+      "statusLabel": "Scheduled",
+      "kingsScore": null,
+      "opponentScore": null,
+      "result": null
+    },
+    {
+      "id": "401937102",
+      "date": "2026-12-07T02:00Z",
+      "time": "2026-12-07T02:00Z",
+      "opponent": "Denver Nuggets",
+      "opponentAbbr": "DEN",
+      "isHome": false,
+      "venue": "Ball Arena · Denver",
+      "status": "scheduled",
+      "statusLabel": "Scheduled",
+      "kingsScore": null,
+      "opponentScore": null,
+      "result": null
+    },
+    {
+      "id": "401937116",
+      "date": "2026-12-11T03:00Z",
+      "time": "2026-12-11T03:00Z",
+      "opponent": "Minnesota Timberwolves",
+      "opponentAbbr": "MIN",
+      "isHome": true,
+      "venue": "Golden 1 Center · Sacramento",
       "status": "scheduled",
       "statusLabel": "Scheduled",
       "kingsScore": null,
